@@ -1,6 +1,6 @@
 [
     {
-        "tab": "buildings",
+        "data": "buildings",
         "version": 1,
         "url": "https://raw.githubusercontent.com/ichiefboz/sayleshill-data/master/buildings.json"
     }
