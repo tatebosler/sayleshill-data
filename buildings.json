@@ -9,7 +9,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Archives",
@@ -21,7 +21,7 @@
    "email": "archives@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Boliou Hall",
@@ -33,7 +33,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "Restricted",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Bookstore",
@@ -45,7 +45,7 @@
    "email": "bookstore@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Bouldering Cave",
@@ -57,7 +57,7 @@
    "email": "",
    "generalAccess": "Carleton",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Burton",
@@ -69,7 +69,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Business Cashier",
@@ -81,7 +81,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Business Office",
@@ -93,7 +93,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Campus Services (OneCard) Office",
@@ -105,7 +105,7 @@
    "email": "onecard@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "CAMS Production Office",
@@ -117,7 +117,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Career Center",
@@ -129,7 +129,7 @@
    "email": "careercenter@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "CCCE",
@@ -141,7 +141,7 @@
    "email": "ccce@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Center for Math and Computing",
@@ -153,7 +153,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "Carleton",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Cowling",
@@ -165,7 +165,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Cowling Pool",
@@ -177,7 +177,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Dean of Students Office",
@@ -189,7 +189,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Gender and Sexuality Center",
@@ -201,7 +201,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "Restricted",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Hulings Hall",
@@ -213,7 +213,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "Restricted",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "IdeaLab",
@@ -225,7 +225,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Information Desk",
@@ -237,7 +237,7 @@
    "email": "infodesk@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "ITS Helpdesk",
@@ -249,7 +249,7 @@
    "email": "helpdesk@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "ITS Helpdesk Annex",
@@ -261,7 +261,7 @@
    "email": "helpdesk@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "ITS Repair Drop-Off",
@@ -273,7 +273,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "KRLX Record Libe",
@@ -285,7 +285,7 @@
    "email": "",
    "generalAccess": "Carleton",
    "closedAccess": "Restricted",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "KRLX Studio",
@@ -297,7 +297,7 @@
    "email": "",
    "generalAccess": "Carleton",
    "closedAccess": "Restricted",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Laird Stadium",
@@ -309,7 +309,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Language Center",
@@ -321,7 +321,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "LDC (East) Dining",
@@ -333,7 +333,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "LDC Express Lunches",
@@ -345,7 +345,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Mail Services",
@@ -357,7 +357,7 @@
    "email": "mailservices@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Math Skills Center",
@@ -369,7 +369,7 @@
    "email": "",
    "generalAccess": "Carleton",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Off-Campus Studies",
@@ -381,7 +381,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "PEPS",
@@ -393,7 +393,7 @@
    "email": "peps@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Perlman Museum",
@@ -405,7 +405,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Post Office",
@@ -417,7 +417,7 @@
    "email": "mailservices@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Print Services",
@@ -429,7 +429,7 @@
    "email": "printservices@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Reference Desk",
@@ -441,7 +441,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Registrar",
@@ -453,7 +453,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Residential Life",
@@ -465,7 +465,7 @@
    "email": "reslife@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "Restricted",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Sayles Café",
@@ -477,7 +477,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Sayles Café Late Night",
@@ -489,7 +489,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Sayles Café Meal Equivalency",
@@ -501,7 +501,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Sayles Café Tacqueria",
@@ -513,7 +513,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Sayles-Hill Campus Center",
@@ -525,7 +525,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "Carleton",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "SHAC Counseling Appointments",
@@ -537,7 +537,7 @@
    "email": "shac@carleton.edu",
    "generalAccess": "Carleton",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "SHAC Medical Appointments",
@@ -549,7 +549,7 @@
    "email": "shac@carleton.edu",
    "generalAccess": "Carleton",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Stav Hall (St. Olaf)",
@@ -561,7 +561,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Stav Hall (St. Olaf) Bag Lunches",
@@ -573,7 +573,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Student Activities Office",
@@ -585,7 +585,7 @@
    "email": "sao@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Student Financial Services",
@@ -597,7 +597,7 @@
    "email": "financialaid@carleton.edu",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "The Libe",
@@ -609,7 +609,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "The Rec",
@@ -621,7 +621,7 @@
    "email": "",
    "generalAccess": "Carleton",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "The Wall",
@@ -633,7 +633,7 @@
    "email": "",
    "generalAccess": "Carleton",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Weitz Café",
@@ -645,7 +645,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Weitz Center for Creativity",
@@ -657,7 +657,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "Restricted",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "West Gym",
@@ -669,7 +669,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "West Pool (Thorpe)",
@@ -681,7 +681,7 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  },
  {
    "name": "Writing Center",
@@ -693,6 +693,6 @@
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "Notes": ""
+   "notes": ""
  }
 ]
