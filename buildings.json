@@ -1,899 +1,698 @@
 [
-	{
-		"Name": "Student Activities Office",
-		"Slug": "sao",
-		"Location": "Lower Sayles",
-		"Building": "sayles",
-		"Website": "https://apps.carleton.edu/campus/campact/",
-		"Phone": "5072224462",
-		"Email": "sao@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Student Life",
-			"Sayles-Hill Campus Center"
-		],
-		"Shortcode": "SAO"
-	},
-	{
-		"Name": "Stav Hall (St. Olaf)",
-		"Slug": "stav",
-		"Location": "Third Buntrock",
-		"Building": "buntrock",
-		"Website": "http://wp.stolaf.edu/buntrock/dining-hours/",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Dining"
-		],
-		"Shortcode": "STO"
-	},
-	{
-		"Name": "Gender and Sexuality Center",
-		"Slug": "gsc",
-		"Location": "Clader House",
-		"Building": "clader",
-		"Website": "https://apps.carleton.edu/campus/gsc/",
-		"Phone": "5072225222",
-		"General Access": "Public",
-		"Closed Access": "Restricted",
-		"Term Hours": [
-			"recYR3NkdVevzdple"
-		],
-		"Categories": [
-			"Student Life"
-		],
-		"Shortcode": "GSC"
-	},
-	{
-		"Name": "Print Services",
-		"Slug": "print",
-		"Location": "First Leighton",
-		"Building": "leighton",
-		"Website": "https://apps.carleton.edu/campus/print/",
-		"Phone": "5072224186",
-		"Email": "printservices@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Business and Administration"
-		],
-		"Shortcode": "PRNT"
-	},
-	{
-		"Name": "Sayles Café Meal Equivalency",
-		"Slug": "sayles-equiv",
-		"Location": "Lower Sayles",
-		"Building": "sayles",
-		"Website": "https://apps.carleton.edu/campus/dining_services/facilities/",
-		"Phone": "(507) 222-4152",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Dining",
-			"Sayles-Hill Campus Center"
-		],
-		"Shortcode": "MEQV"
-	},
-	{
-		"Name": "ITS Helpdesk",
-		"Slug": "its",
-		"Location": "First CMC",
-		"Building": "cmc",
-		"Website": "https://wiki.carleton.edu/display/itskb/ITS+helpdesk",
-		"Phone": "5072225999",
-		"Email": "helpdesk@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Information Technology Services"
-		],
-		"Shortcode": "ITS"
-	},
-	{
-		"Name": "Center for Math and Computing",
-		"Slug": "cmc",
-		"Building": "cmc",
-		"General Access": "Public",
-		"Closed Access": "Carleton",
-		"Categories": [
-			"Buildings"
-		],
-		"Shortcode": "CMC"
-	},
-	{
-		"Name": "The Libe",
-		"Slug": "libe",
-		"Location": "Laurence McKinley Gould Library",
-		"Building": "libe",
-		"Website": "https://apps.carleton.edu/campus/library/",
-		"Phone": "5072224260",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Laurence McKinley Gould Library",
-			"Academics"
-		],
-		"Shortcode": "LIBE"
-	},
-	{
-		"Name": "KRLX Studio",
-		"Slug": "krlx",
-		"Location": "Basement Sayles",
-		"Building": "sayles",
-		"Website": "http://www.krlx.org",
-		"Phone": "5072224127",
-		"General Access": "Carleton",
-		"Closed Access": "Restricted",
-		"Categories": [
-			"Sayles-Hill Campus Center"
-		],
-		"Shortcode": "KRLX"
-	},
-	{
-		"Name": "IdeaLab",
-		"Slug": "idealab",
-		"Location": "Lower Weitz",
-		"Building": "weitz",
-		"Website": "https://apps.carleton.edu/idealab/",
-		"Phone": "5072227070",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Information Technology Services"
-		],
-		"Shortcode": "IDEA"
-	},
-	{
-		"Name": "LDC Express Lunches",
-		"Slug": "ldc-express",
-		"Location": "First LDC",
-		"Building": "ldc",
-		"Website": "https://apps.carleton.edu/campus/dining_services/facilities/",
-		"Phone": "5072227543",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Dining"
-		],
-		"Shortcode": "LDCX"
-	},
-	{
-		"Name": "Cowling Pool",
-		"Slug": "cowling-pool",
-		"Location": "Cowling Recreation Center",
-		"Building": "cowling",
-		"Website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
-		"Phone": "5072224431",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Recreation"
-		],
-		"Shortcode": "CWLP"
-	},
-	{
-		"Name": "Boliou Hall",
-		"Slug": "boliou",
-		"Building": "boliou",
-		"General Access": "Public",
-		"Closed Access": "Restricted",
-		"Categories": [
-			"Buildings"
-		],
-		"Shortcode": "BOLI"
-	},
-	{
-		"Name": "Sayles Café",
-		"Slug": "sayles-cafe",
-		"Location": "Lower Sayles",
-		"Building": "sayles",
-		"Website": "https://apps.carleton.edu/campus/dining_services/facilities/",
-		"Phone": "5072224152",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"rec5sgwafkPcuuYmN",
-			"recHGxAenqJKRk8ed",
-			"recQBErS0Yaksa1Ot",
-			"recDLUMYWwhuid3cz"
-		],
-		"Categories": [
-			"Dining",
-			"Sayles-Hill Campus Center"
-		],
-		"Shortcode": "SCAF"
-	},
-	{
-		"Name": "KRLX Record Libe",
-		"Slug": "record-libe",
-		"Location": "Basement Sayles (KRLX Studio)",
-		"Building": "sayles",
-		"Website": "http://www.krlx.org/record-libe",
-		"General Access": "Carleton",
-		"Closed Access": "Restricted",
-		"Categories": [
-			"Sayles-Hill Campus Center"
-		],
-		"Shortcode": "RLIB"
-	},
-	{
-		"Name": "Business Office",
-		"Slug": "business",
-		"Location": "First Leighton",
-		"Building": "leighton",
-		"Website": "https://apps.carleton.edu/campus/business/",
-		"Phone": "5072227095",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Business and Administration"
-		],
-		"Shortcode": "BUSI"
-	},
-	{
-		"Name": "Writing Center",
-		"Slug": "writing",
-		"Location": "Fourth Libe",
-		"Building": "libe",
-		"Website": "https://apps.carleton.edu/campus/asc/writingcenter/",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Laurence McKinley Gould Library",
-			"Academics"
-		],
-		"Shortcode": "WRIT"
-	},
-	{
-		"Name": "Weitz Center for Creativity",
-		"Slug": "weitz",
-		"Building": "weitz",
-		"General Access": "Public",
-		"Closed Access": "Restricted",
-		"Term Hours": [
-			"recFm7tTiEOftF7K0",
-			"recjDrv3EzvgQUYEz"
-		],
-		"Categories": [
-			"Buildings"
-		],
-		"Shortcode": "WCC"
-	},
-	{
-		"Name": "Post Office",
-		"Slug": "post",
-		"Location": "Lower Sayles",
-		"Building": "sayles",
-		"Website": "https://apps.carleton.edu/campus/mail/",
-		"Phone": "5072224151",
-		"Email": "mailservices@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Sayles-Hill Campus Center"
-		],
-		"Shortcode": "PO"
-	},
-	{
-		"Name": "West Pool (Thorpe)",
-		"Slug": "thorpe",
-		"Location": "West Gym",
-		"Building": "west",
-		"Website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Recreation"
-		],
-		"Shortcode": "WPOL"
-	},
-	{
-		"Name": "Weitz Café",
-		"Slug": "weitz-cafe",
-		"Location": "Weitz Commons",
-		"Building": "wetiz",
-		"Website": "https://apps.carleton.edu/campus/dining_services/facilities/",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Flags": [
-			"Not open during breaks"
-		],
-		"Categories": [
-			"Dining"
-		],
-		"Shortcode": "WCAF"
-	},
-	{
-		"Name": "Burton",
-		"Slug": "burton",
-		"Location": "Ground Complex",
-		"Building": "burton",
-		"Website": "https://apps.carleton.edu/campus/dining_services/facilities/",
-		"Phone": "5072224145",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Dining"
-		],
-		"Shortcode": "BURT"
-	},
-	{
-		"Name": "Cowling",
-		"Slug": "cowling",
-		"Location": "Cowling Recreation Center",
-		"Building": "cowling",
-		"Website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
-		"Phone": "5072224431",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Recreation"
-		],
-		"Shortcode": "COWL"
-	},
-	{
-		"Name": "Information Desk",
-		"Slug": "info",
-		"Location": "Lower Sayles",
-		"Building": "sayles",
-		"Website": "https://apps.carleton.edu/campus/services/info_desk/",
-		"Phone": "5072224636",
-		"Email": "infodesk@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Sayles-Hill Campus Center"
-		],
-		"Shortcode": "INFO"
-	},
-	{
-		"Name": "CAMS Production Office",
-		"Slug": "camsproduction",
-		"Location": "Main Weitz",
-		"Building": "weitz",
-		"Website": "https://apps.carleton.edu/curricular/cams/production/hours/",
-		"Phone": "5072225434",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Other",
-			"Academics"
-		],
-		"Shortcode": "CAMS"
-	},
-	{
-		"Name": "Sayles Café Tacqueria",
-		"Slug": "sayles-taco",
-		"Location": "Lower Sayles",
-		"Building": "sayles",
-		"Website": "https://apps.carleton.edu/campus/dining_services/facilities/",
-		"Phone": "(507) 222-4152",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"recxTPHxm0VTsi3Oz"
-		],
-		"Categories": [
-			"Dining",
-			"Sayles-Hill Campus Center"
-		],
-		"Shortcode": "TACO"
-	},
-	{
-		"Name": "Archives",
-		"Slug": "archives",
-		"Location": "First Libe",
-		"Building": "libe",
-		"Website": "https://apps.carleton.edu/archives/",
-		"Phone": "5072224270",
-		"Email": "archives@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"recCbZ2qk4WAdxtda",
-			"recHJpzT6WisLLbT4"
-		],
-		"Categories": [
-			"Laurence McKinley Gould Library"
-		],
-		"Shortcode": "ARC"
-	},
-	{
-		"Name": "Dean of Students Office",
-		"Slug": "doso",
-		"Location": "First Severance",
-		"Building": "sevy",
-		"Website": "https://apps.carleton.edu/campus/dos/meet/",
-		"Phone": "5072224075",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Student Life"
-		],
-		"Shortcode": "DOSO"
-	},
-	{
-		"Name": "Campus Services (OneCard) Office",
-		"Slug": "onecard",
-		"Location": "Basement Sayles",
-		"Building": "sayles",
-		"Website": "https://apps.carleton.edu/campus/onecard/",
-		"Phone": "5072227728",
-		"Email": "onecard@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Sayles-Hill Campus Center"
-		],
-		"Shortcode": "CSRV"
-	},
-	{
-		"Name": "Business Cashier",
-		"Slug": "business-cashier",
-		"Location": "First Leighton",
-		"Building": "leighton",
-		"Website": "https://apps.carleton.edu/campus/business/cashierservices/",
-		"Phone": "5072227095",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Business and Administration"
-		],
-		"Shortcode": "BUSC"
-	},
-	{
-		"Name": "Mail Services",
-		"Slug": "mail",
-		"Location": "Lower Sayles",
-		"Building": "sayles",
-		"Website": "https://apps.carleton.edu/campus/mail/",
-		"Phone": "5072224151",
-		"Email": "mailservices@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Sayles-Hill Campus Center"
-		],
-		"Shortcode": "MAIL"
-	},
-	{
-		"Name": "LDC (East) Dining",
-		"Slug": "ldc",
-		"Location": "Language and Dining Center",
-		"Building": "ldc",
-		"Website": "https://apps.carleton.edu/campus/dining_services/facilities/",
-		"Phone": "5072227543",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Dining"
-		],
-		"Shortcode": "LDC"
-	},
-	{
-		"Name": "Language Center",
-		"Slug": "language",
-		"Location": "Second LDC",
-		"Building": "ldc",
-		"Website": "https://apps.carleton.edu/curricular/languagecenter/",
-		"Phone": "5072225471",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Student Life",
-			"Academics"
-		],
-		"Shortcode": "LANG"
-	},
-	{
-		"Name": "CCCE",
-		"Slug": "ccce",
-		"Location": "Lower Sayles",
-		"Building": "sayles",
-		"Website": "https://apps.carleton.edu/ccce/",
-		"Phone": "5072227020",
-		"Email": "ccce@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"recYR3NkdVevzdple"
-		],
-		"Categories": [
-			"Sayles-Hill Campus Center",
-			"Student Life"
-		],
-		"Shortcode": "CCCE"
-	},
-	{
-		"Name": "Hulings Hall",
-		"Slug": "hulings",
-		"Building": "hulings",
-		"General Access": "Public",
-		"Closed Access": "Restricted",
-		"Categories": [
-			"Buildings"
-		],
-		"Shortcode": "HULI"
-	},
-	{
-		"Name": "Sayles Café Late Night",
-		"Slug": "sayles-latenight",
-		"Location": "Lower Sayles",
-		"Building": "sayles",
-		"Website": "https://apps.carleton.edu/campus/dining_services/facilities/",
-		"Phone": "(507) 222-4152",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"rec1P3dVjgQspkrBX",
-			"recs3lD8wlYUVLECT"
-		],
-		"Categories": [
-			"Dining",
-			"Sayles-Hill Campus Center"
-		],
-		"Shortcode": "LNIT"
-	},
-	{
-		"Name": "Bouldering Cave",
-		"Slug": "bouldering",
-		"Location": "Rec Center",
-		"Building": "rec",
-		"Website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
-		"Phone": "5072224487",
-		"General Access": "Carleton",
-		"Closed Access": "None",
-		"Categories": [
-			"Recreation"
-		],
-		"Shortcode": "BLDR"
-	},
-	{
-		"Name": "PEPS",
-		"Slug": "peps",
-		"Location": "Lower Weitz",
-		"Building": "weitz",
-		"Website": "https://apps.carleton.edu/campus/its/peps/",
-		"Phone": "5072227070",
-		"Email": "peps@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Information Technology Services"
-		],
-		"Shortcode": "PEPS"
-	},
-	{
-		"Name": "Bookstore",
-		"Slug": "bookstore",
-		"Location": "Lower and Basement Sayles",
-		"Building": "sayles",
-		"Website": "https://apps.carleton.edu/campus/bookstore/",
-		"Phone": "5072224153",
-		"Email": "bookstore@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Sayles-Hill Campus Center"
-		],
-		"Shortcode": "BOOK"
-	},
-	{
-		"Name": "Off-Campus Studies",
-		"Slug": "ocs",
-		"Location": "First Leighton",
-		"Building": "leighton",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Business and Administration"
-		],
-		"Shortcode": "OCS"
-	},
-	{
-		"Name": "Student Financial Services",
-		"Slug": "sfs",
-		"Location": "First Scoville",
-		"Building": "scoville",
-		"Phone": "5072224138",
-		"Email": "financialaid@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Business and Administration"
-		],
-		"Shortcode": "SFS"
-	},
-	{
-		"Name": "Registrar",
-		"Slug": "registrar",
-		"Location": "First Laird",
-		"Building": "laird",
-		"Website": "https://apps.carleton.edu/campus/registrar/",
-		"Phone": "5072224288",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Business and Administration",
-			"Academics"
-		],
-		"Shortcode": "REG"
-	},
-	{
-		"Name": "Stav Hall (St. Olaf) Bag Lunches",
-		"Slug": "stav-bag",
-		"Location": "Third Buntrock",
-		"Building": "buntrock",
-		"Website": "http://wp.stolaf.edu/buntrock/dining-hours/",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Dining"
-		],
-		"Shortcode": "STOX"
-	},
-	{
-		"Name": "Reference Desk",
-		"Slug": "reference",
-		"Location": "Fourth Libe (Research/IT in Reference Room)",
-		"Building": "libe",
-		"Website": "https://apps.carleton.edu/campus/library/",
-		"Phone": "5072224264",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Laurence McKinley Gould Library"
-		],
-		"Shortcode": "REF"
-	},
-	{
-		"Name": "The Wall",
-		"Slug": "wall",
-		"Location": "Rec Center Lobby",
-		"Building": "rec",
-		"Website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
-		"Phone": "5072224487",
-		"General Access": "Carleton",
-		"Closed Access": "None",
-		"Categories": [
-			"Recreation"
-		],
-		"Shortcode": "WALL"
-	},
-	{
-		"Name": "Academic Buildings",
-		"Slug": "academics",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"recJC5Mv6MVgG3fJK"
-		],
-		"Categories": [
-			"Buildings"
-		],
-		"Shortcode": "ACA"
-	},
-	{
-		"Name": "ITS Helpdesk Annex",
-		"Slug": "its-libe",
-		"Location": "Fourth Libe (Research/IT in Reference Room)",
-		"Building": "libe",
-		"Website": "https://wiki.carleton.edu/display/itskb/ITS+helpdesk",
-		"Phone": "5072224264",
-		"Email": "helpdesk@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Flags": [
-			"Not open during breaks"
-		],
-		"Categories": [
-			"Information Technology Services",
-			"Laurence McKinley Gould Library"
-		],
-		"Shortcode": "ITSX"
-	},
-	{
-		"Name": "The Rec",
-		"Slug": "rec",
-		"Location": "Recreation Center",
-		"Building": "rec",
-		"Website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
-		"Phone": "5072224487",
-		"General Access": "Carleton",
-		"Closed Access": "None",
-		"Categories": [
-			"Recreation"
-		],
-		"Shortcode": "REC"
-	},
-	{
-		"Name": "Math Skills Center",
-		"Slug": "msc",
-		"Location": "2nd and 3rd CMC",
-		"Building": "cmc",
-		"Website": "https://apps.carleton.edu/campus/msc/",
-		"Phone": "5072225560",
-		"General Access": "Carleton",
-		"Closed Access": "None",
-		"Categories": [
-			"Student Life",
-			"Academics"
-		],
-		"Shortcode": "MSC"
-	},
-	{
-		"Name": "Career Center",
-		"Slug": "career",
-		"Location": "Basement Sayles",
-		"Building": "sayles",
-		"Website": "https://apps.carleton.edu/career/",
-		"Phone": "5072224923",
-		"Email": "careercenter@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Sayles-Hill Campus Center",
-			"Student Life"
-		],
-		"Shortcode": "CCTR"
-	},
-	{
-		"Name": "West Gym",
-		"Slug": "west",
-		"Location": "West Gym",
-		"Building": "west",
-		"Website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Recreation"
-		],
-		"Shortcode": "WEST"
-	},
-	{
-		"Name": "Laird Stadium",
-		"Slug": "stadium",
-		"Building": "stadium",
-		"Website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Recreation"
-		],
-		"Shortcode": "STAD"
-	},
-	{
-		"Name": "Sayles-Hill Campus Center",
-		"Slug": "sayles",
-		"Building": "sayles",
-		"General Access": "Public",
-		"Closed Access": "Carleton",
-		"Break Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Buildings"
-		],
-		"Shortcode": "SAYL"
-	},
-	{
-		"Name": "SHAC Counseling Appointments",
-		"Slug": "shac-counseling",
-		"Location": "Ground Davis",
-		"Building": "davis",
-		"Website": "https://apps.carleton.edu/studenthealth/",
-		"Phone": "(507) 222-4080",
-		"Email": "shac@carleton.edu",
-		"General Access": "Carleton",
-		"Closed Access": "None",
-		"Categories": [
-			"Student Life"
-		],
-		"Shortcode": "SHAC"
-	},
-	{
-		"Name": "Residential Life",
-		"Slug": "reslife",
-		"Location": "Ground Severance",
-		"Building": "sevy",
-		"Website": "https://apps.carleton.edu/student/housing/",
-		"Phone": "5072224072",
-		"Email": "reslife@carleton.edu",
-		"General Access": "Public",
-		"Closed Access": "Restricted",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Student Life",
-			"Business and Administration"
-		],
-		"Shortcode": "RESL"
-	},
-	{
-		"Name": "ITS Repair Drop-Off",
-		"Slug": "its-dropoff",
-		"Location": "First CMC",
-		"Building": "cmc",
-		"Website": "https://wiki.carleton.edu/display/itskb/ITS+helpdesk",
-		"Phone": "5072225999",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Term Hours": [
-			"reclWHLcobbXkKvyT"
-		],
-		"Categories": [
-			"Information Technology Services"
-		],
-		"Shortcode": "ITSR"
-	},
-	{
-		"Name": "SHAC Medical Appointments",
-		"Slug": "shac-medical",
-		"Location": "Ground Davis",
-		"Building": "davis",
-		"Website": "https://apps.carleton.edu/studenthealth/",
-		"Phone": "(507) 222-4080",
-		"Email": "shac@carleton.edu",
-		"General Access": "Carleton",
-		"Closed Access": "None",
-		"Categories": [
-			"Student Life"
-		],
-		"Shortcode": "SHAC"
-	},
-	{
-		"Name": "Perlman Museum",
-		"Slug": "perlman",
-		"Location": "Weitz Commons",
-		"Building": "weitz",
-		"Website": "https://apps.carleton.edu/museum/",
-		"Phone": "5072224469",
-		"General Access": "Public",
-		"Closed Access": "None",
-		"Categories": [
-			"Other"
-		],
-		"Shortcode": "ARTM"
-	}
+ {
+   "name": "Academic Buildings",
+   "slug": "academics",
+   "shortcode": "ACA",
+   "location": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Archives",
+   "slug": "archives",
+   "shortcode": "ARC",
+   "location": "First Libe",
+   "website": "https://apps.carleton.edu/archives/",
+   "phone": "(507) 222-4270",
+   "email": "archives@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Boliou Hall",
+   "slug": "boliou",
+   "shortcode": "BOLI",
+   "location": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "Restricted",
+   "Notes": ""
+ },
+ {
+   "name": "Bookstore",
+   "slug": "bookstore",
+   "shortcode": "BOOK",
+   "location": "Lower and Basement Sayles",
+   "website": "https://apps.carleton.edu/campus/bookstore/",
+   "phone": "(507) 222-4153",
+   "email": "bookstore@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Bouldering Cave",
+   "slug": "bouldering",
+   "shortcode": "BLDR",
+   "location": "Rec Center",
+   "website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
+   "phone": "(507) 222-4487",
+   "email": "",
+   "generalAccess": "Carleton",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Burton",
+   "slug": "burton",
+   "shortcode": "BURT",
+   "location": "Ground Complex",
+   "website": "https://apps.carleton.edu/campus/dining_services/facilities/",
+   "phone": "(507) 222-4145",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Business Cashier",
+   "slug": "business-cashier",
+   "shortcode": "BUSC",
+   "location": "First Leighton",
+   "website": "https://apps.carleton.edu/campus/business/cashierservices/",
+   "phone": "(507) 222-7095",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Business Office",
+   "slug": "business",
+   "shortcode": "BUSI",
+   "location": "First Leighton",
+   "website": "https://apps.carleton.edu/campus/business/",
+   "phone": "(507) 222-7095",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Campus Services (OneCard) Office",
+   "slug": "onecard",
+   "shortcode": "CSRV",
+   "location": "Basement Sayles",
+   "website": "https://apps.carleton.edu/campus/onecard/",
+   "phone": "(507) 222-7728",
+   "email": "onecard@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "CAMS Production Office",
+   "slug": "camsproduction",
+   "shortcode": "CAMS",
+   "location": "Main Weitz",
+   "website": "https://apps.carleton.edu/curricular/cams/production/hours/",
+   "phone": "(507) 222-5434",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Career Center",
+   "slug": "career",
+   "shortcode": "CCTR",
+   "location": "Basement Sayles",
+   "website": "https://apps.carleton.edu/career/",
+   "phone": "(507) 222-4923",
+   "email": "careercenter@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "CCCE",
+   "slug": "ccce",
+   "shortcode": "CCCE",
+   "location": "Lower Sayles",
+   "website": "https://apps.carleton.edu/ccce/",
+   "phone": "(507) 222-7020",
+   "email": "ccce@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Center for Math and Computing",
+   "slug": "cmc",
+   "shortcode": "CMC",
+   "location": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "Carleton",
+   "Notes": ""
+ },
+ {
+   "name": "Cowling",
+   "slug": "cowling",
+   "shortcode": "COWL",
+   "location": "Cowling Recreation Center",
+   "website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
+   "phone": "(507) 222-4431",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Cowling Pool",
+   "slug": "cowling-pool",
+   "shortcode": "CWLP",
+   "location": "Cowling Recreation Center",
+   "website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
+   "phone": "(507) 222-4431",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Dean of Students Office",
+   "slug": "doso",
+   "shortcode": "DOSO",
+   "location": "First Severance",
+   "website": "https://apps.carleton.edu/campus/dos/meet/",
+   "phone": "(507) 222-4075",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Gender and Sexuality Center",
+   "slug": "gsc",
+   "shortcode": "GSC",
+   "location": "Clader House",
+   "website": "https://apps.carleton.edu/campus/gsc/",
+   "phone": "(507) 222-5222",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "Restricted",
+   "Notes": ""
+ },
+ {
+   "name": "Hulings Hall",
+   "slug": "hulings",
+   "shortcode": "HULI",
+   "location": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "Restricted",
+   "Notes": ""
+ },
+ {
+   "name": "IdeaLab",
+   "slug": "idealab",
+   "shortcode": "IDEA",
+   "location": "Lower Weitz",
+   "website": "https://apps.carleton.edu/idealab/",
+   "phone": "(507) 222-7070",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Information Desk",
+   "slug": "info",
+   "shortcode": "INFO",
+   "location": "Lower Sayles",
+   "website": "https://apps.carleton.edu/campus/services/info_desk/",
+   "phone": "(507) 222-4636",
+   "email": "infodesk@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "ITS Helpdesk",
+   "slug": "its",
+   "shortcode": "ITS",
+   "location": "First CMC",
+   "website": "https://wiki.carleton.edu/display/itskb/ITS+helpdesk",
+   "phone": "(507) 222-5999",
+   "email": "helpdesk@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "ITS Helpdesk Annex",
+   "slug": "its-libe",
+   "shortcode": "ITSX",
+   "location": "Fourth Libe (Research/IT in Reference Room)",
+   "website": "https://wiki.carleton.edu/display/itskb/ITS+helpdesk",
+   "phone": "(507) 222-4264",
+   "email": "helpdesk@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "ITS Repair Drop-Off",
+   "slug": "its-dropoff",
+   "shortcode": "ITSR",
+   "location": "First CMC",
+   "website": "https://wiki.carleton.edu/display/itskb/ITS+helpdesk",
+   "phone": "(507) 222-5999",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "KRLX Record Libe",
+   "slug": "record-libe",
+   "shortcode": "RLIB",
+   "location": "Basement Sayles (KRLX Studio)",
+   "website": "http://www.krlx.org/record-libe",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Carleton",
+   "closedAccess": "Restricted",
+   "Notes": ""
+ },
+ {
+   "name": "KRLX Studio",
+   "slug": "krlx",
+   "shortcode": "KRLX",
+   "location": "Basement Sayles",
+   "website": "http://www.krlx.org",
+   "phone": "(507) 222-4127",
+   "email": "",
+   "generalAccess": "Carleton",
+   "closedAccess": "Restricted",
+   "Notes": ""
+ },
+ {
+   "name": "Laird Stadium",
+   "slug": "stadium",
+   "shortcode": "STAD",
+   "location": "",
+   "website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Language Center",
+   "slug": "language",
+   "shortcode": "LANG",
+   "location": "Second LDC",
+   "website": "https://apps.carleton.edu/curricular/languagecenter/",
+   "phone": "(507) 222-5471",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "LDC (East) Dining",
+   "slug": "ldc",
+   "shortcode": "LDC",
+   "location": "Language and Dining Center",
+   "website": "https://apps.carleton.edu/campus/dining_services/facilities/",
+   "phone": "(507) 222-7543",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "LDC Express Lunches",
+   "slug": "ldc-express",
+   "shortcode": "LDCX",
+   "location": "First LDC",
+   "website": "https://apps.carleton.edu/campus/dining_services/facilities/",
+   "phone": "(507) 222-7543",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Mail Services",
+   "slug": "mail",
+   "shortcode": "MAIL",
+   "location": "Lower Sayles",
+   "website": "https://apps.carleton.edu/campus/mail/",
+   "phone": "(507) 222-4151",
+   "email": "mailservices@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Math Skills Center",
+   "slug": "msc",
+   "shortcode": "MSC",
+   "location": "2nd and 3rd CMC",
+   "website": "https://apps.carleton.edu/campus/msc/",
+   "phone": "(507) 222-5560",
+   "email": "",
+   "generalAccess": "Carleton",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Off-Campus Studies",
+   "slug": "ocs",
+   "shortcode": "OCS",
+   "location": "First Leighton",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "PEPS",
+   "slug": "peps",
+   "shortcode": "PEPS",
+   "location": "Lower Weitz",
+   "website": "https://apps.carleton.edu/campus/its/peps/",
+   "phone": "(507) 222-7070",
+   "email": "peps@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Perlman Museum",
+   "slug": "perlman",
+   "shortcode": "ARTM",
+   "location": "Weitz Commons",
+   "website": "https://apps.carleton.edu/museum/",
+   "phone": "(507) 222-4469",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Post Office",
+   "slug": "post",
+   "shortcode": "PO",
+   "location": "Lower Sayles",
+   "website": "https://apps.carleton.edu/campus/mail/",
+   "phone": "(507) 222-4151",
+   "email": "mailservices@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Print Services",
+   "slug": "print",
+   "shortcode": "PRNT",
+   "location": "First Leighton",
+   "website": "https://apps.carleton.edu/campus/print/",
+   "phone": "(507) 222-4186",
+   "email": "printservices@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Reference Desk",
+   "slug": "reference",
+   "shortcode": "REF",
+   "location": "Fourth Libe (Research/IT in Reference Room)",
+   "website": "https://apps.carleton.edu/campus/library/",
+   "phone": "(507) 222-4264",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Registrar",
+   "slug": "registrar",
+   "shortcode": "REG",
+   "location": "First Laird",
+   "website": "https://apps.carleton.edu/campus/registrar/",
+   "phone": "(507) 222-4288",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Residential Life",
+   "slug": "reslife",
+   "shortcode": "RESL",
+   "location": "Ground Severance",
+   "website": "https://apps.carleton.edu/student/housing/",
+   "phone": "(507) 222-4072",
+   "email": "reslife@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "Restricted",
+   "Notes": ""
+ },
+ {
+   "name": "Sayles Café",
+   "slug": "sayles-cafe",
+   "shortcode": "SCAF",
+   "location": "Lower Sayles",
+   "website": "https://apps.carleton.edu/campus/dining_services/facilities/",
+   "phone": "(507) 222-4152",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Sayles Café Late Night",
+   "slug": "sayles-latenight",
+   "shortcode": "LNIT",
+   "location": "Lower Sayles",
+   "website": "https://apps.carleton.edu/campus/dining_services/facilities/",
+   "phone": "(507) 222-4152",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Sayles Café Meal Equivalency",
+   "slug": "sayles-equiv",
+   "shortcode": "MEQV",
+   "location": "Lower Sayles",
+   "website": "https://apps.carleton.edu/campus/dining_services/facilities/",
+   "phone": "(507) 222-4152",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Sayles Café Tacqueria",
+   "slug": "sayles-taco",
+   "shortcode": "TACO",
+   "location": "Lower Sayles",
+   "website": "https://apps.carleton.edu/campus/dining_services/facilities/",
+   "phone": "(507) 222-4152",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Sayles-Hill Campus Center",
+   "slug": "sayles",
+   "shortcode": "SAYL",
+   "location": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "Carleton",
+   "Notes": ""
+ },
+ {
+   "name": "SHAC Counseling Appointments",
+   "slug": "shac-counseling",
+   "shortcode": "SHAC",
+   "location": "Ground Davis",
+   "website": "https://apps.carleton.edu/studenthealth/",
+   "phone": "(507) 222-4080",
+   "email": "shac@carleton.edu",
+   "generalAccess": "Carleton",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "SHAC Medical Appointments",
+   "slug": "shac-medical",
+   "shortcode": "SHAC",
+   "location": "Ground Davis",
+   "website": "https://apps.carleton.edu/studenthealth/",
+   "phone": "(507) 222-4080",
+   "email": "shac@carleton.edu",
+   "generalAccess": "Carleton",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Stav Hall (St. Olaf)",
+   "slug": "stav",
+   "shortcode": "STO",
+   "location": "Third Buntrock",
+   "website": "http://wp.stolaf.edu/buntrock/dining-hours/",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Stav Hall (St. Olaf) Bag Lunches",
+   "slug": "stav-bag",
+   "shortcode": "STOX",
+   "location": "Third Buntrock",
+   "website": "http://wp.stolaf.edu/buntrock/dining-hours/",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Student Activities Office",
+   "slug": "sao",
+   "shortcode": "SAO",
+   "location": "Lower Sayles",
+   "website": "https://apps.carleton.edu/campus/campact/",
+   "phone": "(507) 222-4462",
+   "email": "sao@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Student Financial Services",
+   "slug": "sfs",
+   "shortcode": "SFS",
+   "location": "First Scoville",
+   "website": "",
+   "phone": "(507) 222-4138",
+   "email": "financialaid@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "The Libe",
+   "slug": "libe",
+   "shortcode": "LIBE",
+   "location": "Laurence McKinley Gould Library",
+   "website": "https://apps.carleton.edu/campus/library/",
+   "phone": "(507) 222-4260",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "The Rec",
+   "slug": "rec",
+   "shortcode": "REC",
+   "location": "Recreation Center",
+   "website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
+   "phone": "(507) 222-4487",
+   "email": "",
+   "generalAccess": "Carleton",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "The Wall",
+   "slug": "wall",
+   "shortcode": "WALL",
+   "location": "Rec Center Lobby",
+   "website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
+   "phone": "(507) 222-4487",
+   "email": "",
+   "generalAccess": "Carleton",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Weitz Café",
+   "slug": "weitz-cafe",
+   "shortcode": "WCAF",
+   "location": "Weitz Commons",
+   "website": "https://apps.carleton.edu/campus/dining_services/facilities/",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Weitz Center for Creativity",
+   "slug": "weitz",
+   "shortcode": "WCC",
+   "location": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "Restricted",
+   "Notes": ""
+ },
+ {
+   "name": "West Gym",
+   "slug": "west",
+   "shortcode": "WEST",
+   "location": "West Gym",
+   "website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "West Pool (Thorpe)",
+   "slug": "thorpe",
+   "shortcode": "WPOL",
+   "location": "West Gym",
+   "website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ },
+ {
+   "name": "Writing Center",
+   "slug": "writing",
+   "shortcode": "WRIT",
+   "location": "Fourth Libe",
+   "website": "https://apps.carleton.edu/campus/asc/writingcenter/",
+   "phone": "",
+   "email": "",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "Notes": ""
+ }
 ]
