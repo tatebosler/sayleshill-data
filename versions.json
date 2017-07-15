@@ -8,10 +8,5 @@
         "data": "categories",
         "version": 1,
         "url": "https://raw.githubusercontent.com/ichiefboz/sayleshill-data/master/categories.json"
-    },
-    {
-        "data": "hours",
-        "version": 1,
-        "url": "https://raw.githubusercontent.com/ichiefboz/sayleshill-data/master/hours.json"
     }
 ]
