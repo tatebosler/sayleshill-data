@@ -3,5 +3,10 @@
         "data": "facilities",
         "version": 1,
         "url": "https://raw.githubusercontent.com/ichiefboz/sayleshill-data/master/facilities.json"
+    },
+    {
+        "data": "categories",
+        "version": 1,
+        "url": "https://raw.githubusercontent.com/ichiefboz/sayleshill-data/master/categories.json"
     }
 ]
