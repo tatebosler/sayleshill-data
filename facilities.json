@@ -68,7 +68,23 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+                "open": "7:30",
+                "close": "10:00",
+                "label": "breakfast",
+                "group": "term"
+            },
+            {
+                "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+                "open": "17:45",
+                "close": "20:00",
+                "label": "dinner",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Business Cashier",
