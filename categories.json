@@ -1,15 +1,15 @@
 [
     {
         "name": "Dining",
-        "facilities": ["burton", "ldc", "sayles-cafe", "ldc-express"]
+        "facilities": ["burton", "ldc", "ldc-express", "sayles-cafe", "sayles-equiv", "sayles-taco", "sayles-latenight", "weitz-cafe", "stav", "stav-bag"]
     },
     {
-        "name": "Sayles-Hill Campus Center",
-        "facilities": ["sayles-cafe", "sayles-cafe-eq", "sayles-cafe-taco", "sayles-cafe-late-night", "bookstore", "post", "mail", "info", "sao", "ccce", "career", "krlx", "record-libe"]
+        "name": "Sayles",
+        "facilities": ["sayles", "sayles-cafe", "sayles-cafe-eq", "sayles-taco", "sayles-latenight", "bookstore", "post", "mail", "info", "sao", "ccce", "career", "krlx", "record-libe"]
     },
     {
         "name": "Student Life",
-        "facilities": ["doso", "reslife", "ccce", "sao", "career", "gsc", "shac", "oiil", "msc", "writing", "language"]
+        "facilities": ["doso", "reslife", "ccce", "sao", "career", "gsc", "shac-medical", "shac-counseling", "oiil", "msc", "writing", "language"]
     },
     {
         "name": "Academic Support",
@@ -20,11 +20,11 @@
         "facilities": ["sayles", "cmc", "libe", "weitz", "boliou", "hulings", "academics"]
     },
     {
-        "name": "Laurence McKinley Gould Library",
+        "name": "The Libe",
         "facilities": ["libe", "reference", "its-libe", "writing", "archives"]
     },
     {
-        "name": "Information Technology Services",
+        "name": "ITS",
         "facilities": ["its", "its-dropoff", "its-libe", "peps", "idealab"]
     },
     {

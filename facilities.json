@@ -96,19 +96,8 @@
    "notes": ""
  },
  {
-   "name": "Campus Services (OneCard) Office",
-   "slug": "onecard",
-   "shortcode": "CSRV",
-   "location": "Basement Sayles",
-   "website": "https://apps.carleton.edu/campus/onecard/",
-   "phone": "(507) 222-7728",
-   "email": "onecard@carleton.edu",
-   "generalAccess": "Public",
-   "closedAccess": "None",
-   "notes": ""
- },
- {
-   "name": "CAMS Production Office",
+   "name": "Cinema and Media Studies Production Office",
+   "shortname": "CAMS Production Office",
    "slug": "camsproduction",
    "shortcode": "CAMS",
    "location": "Main Weitz",
@@ -132,7 +121,8 @@
    "notes": ""
  },
  {
-   "name": "CCCE",
+   "name": "Center for Community and Civic Engagement",
+   "shortname": "CCCE",
    "slug": "ccce",
    "shortcode": "CCCE",
    "location": "Lower Sayles (Suite 150)",
@@ -145,6 +135,7 @@
  },
  {
    "name": "Center for Math and Computing",
+   "shortname": "CMC",
    "slug": "cmc",
    "shortcode": "CMC",
    "location": "",
@@ -324,7 +315,8 @@
    "notes": ""
  },
  {
-   "name": "LDC (East) Dining",
+   "name": "East Dining Hall",
+   "shortname": "LDC",
    "slug": "ldc",
    "shortcode": "LDC",
    "location": "Language and Dining Center",
@@ -384,7 +376,20 @@
    "notes": ""
  },
  {
-   "name": "PEPS",
+   "name": "OneCard Office",
+   "slug": "onecard",
+   "shortcode": "ONE",
+   "location": "Basement Sayles",
+   "website": "https://apps.carleton.edu/campus/onecard/",
+   "phone": "(507) 222-7728",
+   "email": "onecard@carleton.edu",
+   "generalAccess": "Public",
+   "closedAccess": "None",
+   "notes": ""
+ },
+ {
+   "name": "Presentation, Events, and Production Support",
+   "shortname": "PEPS",
    "slug": "peps",
    "shortcode": "PEPS",
    "location": "Lower Weitz (Suite 027)",
@@ -564,7 +569,8 @@
    "notes": ""
  },
  {
-   "name": "Stav Hall (St. Olaf) Bag Lunches",
+   "name": "Stav Hall Bag Lunches",
+   "shortname": "St. Olaf Bag Lunches",
    "slug": "stav-bag",
    "shortcode": "STOX",
    "location": "Third Buntrock",
@@ -600,10 +606,11 @@
    "notes": ""
  },
  {
-   "name": "The Libe",
+   "name": "Laurence McKinley Gould Library",
+   "shortname": "The Libe",
    "slug": "libe",
    "shortcode": "LIBE",
-   "location": "Laurence McKinley Gould Library",
+   "location": "",
    "website": "https://apps.carleton.edu/campus/library/",
    "phone": "(507) 222-4260",
    "email": "",
@@ -672,7 +679,8 @@
    "notes": ""
  },
  {
-   "name": "West Pool (Thorpe)",
+   "name": "Thorpe Pool",
+   "shortname": "West Gym Pool",
    "slug": "thorpe",
    "shortcode": "WPOL",
    "location": "West Gym",
