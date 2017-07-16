@@ -2,5 +2,41 @@
     {
         "name": "Dining",
         "facilities": ["burton", "ldc", "sayles-cafe", "ldc-express"]
+    },
+    {
+        "name": "Sayles-Hill Campus Center",
+        "facilities": ["sayles-cafe", "sayles-cafe-eq", "sayles-cafe-taco", "sayles-cafe-late-night", "bookstore", "post", "mail", "info", "sao", "ccce", "career", "krlx", "record-libe"]
+    },
+    {
+        "name": "Student Life",
+        "facilities": ["doso", "reslife", "ccce", "sao", "career", "gsc", "shac", "oiil", "msc", "writing", "language"]
+    },
+    {
+        "name": "Academic Support",
+        "facilities": ["registrar", "writing", "msc", "language", "camsproduction"]
+    },
+    {
+        "name": "Buildings",
+        "facilities": ["sayles", "cmc", "libe", "weitz", "boliou", "hulings", "academics"]
+    },
+    {
+        "name": "Laurence McKinley Gould Library",
+        "facilities": ["libe", "reference", "its-libe", "writing", "archives"]
+    },
+    {
+        "name": "Information Technology Services",
+        "facilities": ["its", "its-dropoff", "its-libe", "peps", "idealab"]
+    },
+    {
+        "name": "Recreation",
+        "facilities": ["rec", "wall", "bouldering", "cowling", "cowling-pool", "west", "thorpe", "stadium"]
+    },
+    {
+        "name": "Business and Administration",
+        "facilities": ["registrar", "ocs", "mail", "print", "business", "business-cashier", "doso", "reslife"]
+    },
+    {
+        "name": "Other",
+        "facilities": ["perlman", "camsproduction"]
     }
 ]
