@@ -486,6 +486,7 @@
  },
  {
    "name": "Sayles Café Late Night",
+   "shortname": "Sayles Late Night",
    "slug": "sayles-latenight",
    "shortcode": "LNIT",
    "location": "Lower Sayles",
@@ -498,15 +499,16 @@
  },
  {
    "name": "Sayles Café Meal Equivalency",
+   "shortname": "Sayles Equivalency",
    "slug": "sayles-equiv",
-   "shortcode": "MEQV",
+   "shortcode": "SEQV",
    "location": "Lower Sayles",
    "website": "https://apps.carleton.edu/campus/dining_services/facilities/",
    "phone": "(507) 222-4152",
    "email": "",
    "generalAccess": "Public",
    "closedAccess": "None",
-   "notes": ""
+   "notes": "Only applicable to students on the 20 meal plan (full board)."
  },
  {
    "name": "Sayles Café Tacqueria",
