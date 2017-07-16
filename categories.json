@@ -1,3 +1,6 @@
-{
-	"Dining": ["burton", "ldc", "sayles-cafe", "ldc-express"]
-}
+[
+    {
+        "name": "Dining",
+        "facilities": ["burton", "ldc", "sayles-cafe"]
+    }
+]
