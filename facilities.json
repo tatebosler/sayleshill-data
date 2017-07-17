@@ -1,5 +1,4 @@
-[
-    {
+[{
 		"name": "Academic Buildings",
 		"slug": "academics",
 		"shortcode": "ACA",
@@ -10,34 +9,30 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-                "open": "7:00",
-                "close": "0:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+			"open": "7:00",
+			"close": "0:00",
+			"group": "term"
+		}]
 	},
-    {
-        "name": "Academic Support Center",
-        "slug": "asc",
-        "shortcode": "ASC",
-        "location": "Fourth Libe (Suite 420)",
-        "website": "https://apps.carleton.edu/campus/asc/",
-        "phone": "(507) 222-4027",
-        "generalAccess": "Public",
-        "closedAccess": "None",
-        "notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
-    },
+	{
+		"name": "Academic Support Center",
+		"slug": "asc",
+		"shortcode": "ASC",
+		"location": "Fourth Libe (Suite 420)",
+		"website": "https://apps.carleton.edu/campus/asc/",
+		"phone": "(507) 222-4027",
+		"generalAccess": "Public",
+		"closedAccess": "None",
+		"notes": "",
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
+	},
 	{
 		"name": "Archives",
 		"slug": "archives",
@@ -49,20 +44,19 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "9:00",
-        	    "close": "12:00",
-                "group": "term"
-            },
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "13:00",
-        	    "close": "16:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+				"open": "9:00",
+				"close": "12:00",
+				"group": "term"
+			},
+			{
+				"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+				"open": "13:00",
+				"close": "16:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Boliou Hall",
@@ -75,32 +69,31 @@
 		"generalAccess": "Public",
 		"closedAccess": "Restricted",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu"],
-                "open": "7:00",
-                "close": "22:00",
-                "group": "term"
-            },
-            {
-                "days": ["Fri"],
-                "open": "7:00",
-                "close": "18:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sat"],
-                "open": "10:00",
-                "close": "18:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sun"],
-                "open": "10:00",
-                "close": "23:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu"],
+				"open": "7:00",
+				"close": "22:00",
+				"group": "term"
+			},
+			{
+				"days": ["Fri"],
+				"open": "7:00",
+				"close": "18:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sat"],
+				"open": "10:00",
+				"close": "18:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sun"],
+				"open": "10:00",
+				"close": "23:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Bookstore",
@@ -113,29 +106,27 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:30",
-        	    "close": "16:00",
-                "group": "break"
-            }, {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:30",
-        	    "close": "18:00",
-                "group": "term"
-            }, {
-        	    "days": ["Sat"],
-        	    "open": "10:00",
-        	    "close": "16:00",
-                "group": "term"
-            }, {
-        	    "days": ["Sun"],
-        	    "open": "12:00",
-        	    "close": "16:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:30",
+			"close": "16:00",
+			"group": "break"
+		}, {
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:30",
+			"close": "18:00",
+			"group": "term"
+		}, {
+			"days": ["Sat"],
+			"open": "10:00",
+			"close": "16:00",
+			"group": "term"
+		}, {
+			"days": ["Sun"],
+			"open": "12:00",
+			"close": "16:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Bouldering Cave",
@@ -148,26 +139,25 @@
 		"generalAccess": "Carleton",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu"],
-                "open": "16:30",
-                "close": "21:30",
-                "group": "term"
-            },
-            {
-                "days": ["Fri"],
-                "open": "16:00",
-                "close": "19:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sat", "Sun"],
-                "open": "14:00",
-                "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu"],
+				"open": "16:30",
+				"close": "21:30",
+				"group": "term"
+			},
+			{
+				"days": ["Fri"],
+				"open": "16:00",
+				"close": "19:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sat", "Sun"],
+				"open": "14:00",
+				"close": "17:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Burton",
@@ -180,33 +170,31 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-                "open": "7:30",
-                "close": "10:00",
-                "label": "breakfast",
-                "group": "term"
-            },{
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "11:30",
-        	    "close": "13:30",
-        	    "label": "lunch",
-                "group": "term"
-            }, {
-        	    "days": ["Sat", "Sun"],
-        	    "open": "11:30",
-        	    "close": "13:00",
-        	    "label": "brunch",
-                "group": "term"
-            }, {
-                "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-                "open": "17:45",
-                "close": "20:00",
-                "label": "dinner",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "7:30",
+			"close": "10:00",
+			"label": "breakfast",
+			"group": "term"
+		}, {
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "11:30",
+			"close": "13:30",
+			"label": "lunch",
+			"group": "term"
+		}, {
+			"days": ["Sat", "Sun"],
+			"open": "11:30",
+			"close": "13:00",
+			"label": "brunch",
+			"group": "term"
+		}, {
+			"days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+			"open": "17:45",
+			"close": "20:00",
+			"label": "dinner",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Business Cashier",
@@ -219,14 +207,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "15:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "15:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Business Office",
@@ -239,14 +225,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Cinema and Media Studies Production Office",
@@ -260,21 +244,19 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Wed"],
-        	    "open": "12:00",
-        	    "close": "18:00"
-            }, {
-        	    "days": ["Tue", "Thu"],
-        	    "open": "10:00",
-        	    "close": "18:00"
-            }, {
-        	    "days": ["Fri", "Sat", "Sun"],
-        	    "open": "12:00",
-        	    "close": "17:00"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Wed"],
+			"open": "12:00",
+			"close": "18:00"
+		}, {
+			"days": ["Tue", "Thu"],
+			"open": "10:00",
+			"close": "18:00"
+		}, {
+			"days": ["Fri", "Sat", "Sun"],
+			"open": "12:00",
+			"close": "17:00"
+		}]
 	},
 	{
 		"name": "Career Center",
@@ -287,20 +269,19 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "16:30",
-                "group": "break"
-            },
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+				"open": "8:00",
+				"close": "16:30",
+				"group": "break"
+			},
+			{
+				"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+				"open": "8:00",
+				"close": "17:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Center for Community and Civic Engagement",
@@ -314,14 +295,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "9:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "9:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Center for Math and Computing",
@@ -335,18 +314,16 @@
 		"generalAccess": "Public",
 		"closedAccess": "Carleton",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-        	    "open": "6:00",
-        	    "close": "0:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+			"open": "6:00",
+			"close": "0:00",
+			"group": "term"
+		}]
 	},
 	{
 		"shortname": "Cowling",
-        "name": "Cowling Recreation Center",
+		"name": "Cowling Recreation Center",
 		"slug": "cowling",
 		"shortcode": "COWL",
 		"location": "714 Evans Drive",
@@ -356,32 +333,31 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu"],
-                "open": "7:30",
-                "close": "23:00",
-                "group": "term"
-            },
-            {
-                "days": ["Fri"],
-                "open": "9:00",
-                "close": "21:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sat"],
-                "open": "10:00",
-                "close": "20:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sun"],
-                "open": "12:00",
-                "close": "23:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu"],
+				"open": "7:30",
+				"close": "23:00",
+				"group": "term"
+			},
+			{
+				"days": ["Fri"],
+				"open": "9:00",
+				"close": "21:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sat"],
+				"open": "10:00",
+				"close": "20:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sun"],
+				"open": "12:00",
+				"close": "23:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Cowling Pool",
@@ -394,38 +370,37 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu"],
-                "open": "7:30",
-                "close": "9:00",
-                "group": "term"
-            },
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu"],
-                "open": "20:30",
-                "close": "22:00",
-                "group": "term"
-            },
-            {
-                "days": ["Tue", "Thu"],
-                "open": "12:30",
-                "close": "13:30",
-                "group": "term"
-            },
-            {
-                "days": ["Tue", "Thu"],
-                "open": "16:30",
-                "close": "18:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sat", "Sun"],
-                "open": "15:00",
-                "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu"],
+				"open": "7:30",
+				"close": "9:00",
+				"group": "term"
+			},
+			{
+				"days": ["Mon", "Tue", "Wed", "Thu"],
+				"open": "20:30",
+				"close": "22:00",
+				"group": "term"
+			},
+			{
+				"days": ["Tue", "Thu"],
+				"open": "12:30",
+				"close": "13:30",
+				"group": "term"
+			},
+			{
+				"days": ["Tue", "Thu"],
+				"open": "16:30",
+				"close": "18:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sat", "Sun"],
+				"open": "15:00",
+				"close": "17:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Dean of Students Office",
@@ -438,14 +413,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Gender and Sexuality Center",
@@ -458,14 +431,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "Restricted",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "9:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "9:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Hulings Hall",
@@ -478,32 +449,31 @@
 		"generalAccess": "Public",
 		"closedAccess": "Restricted",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu"],
-                "open": "7:00",
-                "close": "0:00",
-                "group": "term"
-            },
-            {
-                "days": ["Fri"],
-                "open": "7:00",
-                "close": "18:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sat"],
-                "open": "9:00",
-                "close": "17:30",
-                "group": "term"
-            },
-            {
-                "days": ["Sun"],
-                "open": "13:00",
-                "close": "0:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu"],
+				"open": "7:00",
+				"close": "0:00",
+				"group": "term"
+			},
+			{
+				"days": ["Fri"],
+				"open": "7:00",
+				"close": "18:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sat"],
+				"open": "9:00",
+				"close": "17:30",
+				"group": "term"
+			},
+			{
+				"days": ["Sun"],
+				"open": "13:00",
+				"close": "0:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "IdeaLab",
@@ -516,14 +486,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Information Desk",
@@ -536,20 +504,19 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "9:00",
-        	    "close": "18:00",
-                "group": "term"
-            },
-            {
-        	    "days": ["Sat", "Sun"],
-        	    "open": "11:00",
-        	    "close": "16:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+				"open": "9:00",
+				"close": "18:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sat", "Sun"],
+				"open": "11:00",
+				"close": "16:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "ITS Helpdesk",
@@ -562,29 +529,27 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu"],
-        	    "open": "7:30",
-        	    "close": "22:00",
-                "group": "term"
-            }, {
-        	    "days": ["Fri"],
-        	    "open": "7:30",
-        	    "close": "21:00",
-                "group": "term"
-            }, {
-        	    "days": ["Sat"],
-        	    "open": "10:00",
-        	    "close": "21:00",
-                "group": "term"
-            }, {
-        	    "days": ["Sun"],
-        	    "open": "10:00",
-        	    "close": "22:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu"],
+			"open": "7:30",
+			"close": "22:00",
+			"group": "term"
+		}, {
+			"days": ["Fri"],
+			"open": "7:30",
+			"close": "21:00",
+			"group": "term"
+		}, {
+			"days": ["Sat"],
+			"open": "10:00",
+			"close": "21:00",
+			"group": "term"
+		}, {
+			"days": ["Sun"],
+			"open": "10:00",
+			"close": "22:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "ITS Helpdesk Annex",
@@ -597,25 +562,23 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu"],
-        	    "open": "8:30",
-        	    "close": "1:00"
-            }, {
-        	    "days": ["Fri"],
-        	    "open": "8:30",
-        	    "close": "21:00"
-            }, {
-        	    "days": ["Sat"],
-        	    "open": "10:00",
-        	    "close": "21:00"
-            }, {
-        	    "days": ["Sun"],
-        	    "open": "10:00",
-        	    "close": "1:00"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu"],
+			"open": "8:30",
+			"close": "1:00"
+		}, {
+			"days": ["Fri"],
+			"open": "8:30",
+			"close": "21:00"
+		}, {
+			"days": ["Sat"],
+			"open": "10:00",
+			"close": "21:00"
+		}, {
+			"days": ["Sun"],
+			"open": "10:00",
+			"close": "1:00"
+		}]
 	},
 	{
 		"name": "ITS Repair Drop-Off",
@@ -628,14 +591,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "KRLX Record Libe",
@@ -660,14 +621,12 @@
 		"generalAccess": "Carleton",
 		"closedAccess": "Restricted",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-        	    "open": "0:00",
-        	    "close": "0:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+			"open": "0:00",
+			"close": "0:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Laird Stadium",
@@ -680,20 +639,19 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-                "open": "9:00",
-                "close": "20:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sun"],
-                "open": "11:00",
-                "close": "20:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+				"open": "9:00",
+				"close": "20:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sun"],
+				"open": "11:00",
+				"close": "20:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Language Center",
@@ -706,24 +664,22 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu"],
-        	    "open": "8:15",
-        	    "close": "0:00",
-                "group": "term"
-            }, {
-        	    "days": ["Fri"],
-        	    "open": "8:15",
-        	    "close": "16:00",
-                "group": "term"
-            }, {
-        	    "days": ["Sun"],
-        	    "open": "13:00",
-        	    "close": "0:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu"],
+			"open": "8:15",
+			"close": "0:00",
+			"group": "term"
+		}, {
+			"days": ["Fri"],
+			"open": "8:15",
+			"close": "16:00",
+			"group": "term"
+		}, {
+			"days": ["Sun"],
+			"open": "13:00",
+			"close": "0:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "East Dining Hall",
@@ -737,45 +693,43 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "7:30",
-        	    "close": "10:00",
-        	    "label": "breakfast",
-                "group": "term"
-            }, {
-        	    "days": ["Sat"],
-        	    "open": "8:00",
-        	    "close": "9:30",
-        	    "label": "continental breakfast",
-                "group": "term"
-            }, {
-        	    "days": ["Mon", "Wed"],
-        	    "open": "11:30",
-        	    "close": "14:00",
-        	    "label": "lunch",
-                "group": "term"
-            }, {
-        	    "days": ["Tue", "Thu", "Fri"],
-        	    "open": "11:30",
-        	    "close": "13:45",
-        	    "label": "lunch",
-                "group": "term"
-            }, {
-        	    "days": ["Sat", "Sun"],
-        	    "open": "10:30",
-        	    "close": "13:00",
-        	    "label": "brunch",
-                "group": "term"
-            }, {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
-        	    "open": "16:45",
-        	    "close": "19:00",
-        	    "label": "dinner",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "7:30",
+			"close": "10:00",
+			"label": "breakfast",
+			"group": "term"
+		}, {
+			"days": ["Sat"],
+			"open": "8:00",
+			"close": "9:30",
+			"label": "continental breakfast",
+			"group": "term"
+		}, {
+			"days": ["Mon", "Wed"],
+			"open": "11:30",
+			"close": "14:00",
+			"label": "lunch",
+			"group": "term"
+		}, {
+			"days": ["Tue", "Thu", "Fri"],
+			"open": "11:30",
+			"close": "13:45",
+			"label": "lunch",
+			"group": "term"
+		}, {
+			"days": ["Sat", "Sun"],
+			"open": "10:30",
+			"close": "13:00",
+			"label": "brunch",
+			"group": "term"
+		}, {
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+			"open": "16:45",
+			"close": "19:00",
+			"label": "dinner",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "LDC Express Lunches",
@@ -788,24 +742,22 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "7:30",
-        	    "close": "10:00",
-                "group": "term"
-            }, {
-        	    "days": ["Mon", "Wed"],
-        	    "open": "11:30",
-        	    "close": "14:00",
-                "group": "term"
-            }, {
-        	    "days": ["Tue", "Thu", "Fri"],
-        	    "open": "11:30",
-        	    "close": "13:45",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "7:30",
+			"close": "10:00",
+			"group": "term"
+		}, {
+			"days": ["Mon", "Wed"],
+			"open": "11:30",
+			"close": "14:00",
+			"group": "term"
+		}, {
+			"days": ["Tue", "Thu", "Fri"],
+			"open": "11:30",
+			"close": "13:45",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Mail Services",
@@ -818,20 +770,19 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-                "open": "8:00",
-                "close": "17:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sat"],
-                "open": "10:00",
-                "close": "16:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+				"open": "8:00",
+				"close": "17:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sat"],
+				"open": "10:00",
+				"close": "16:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Math Skills Center",
@@ -844,29 +795,27 @@
 		"generalAccess": "Carleton",
 		"closedAccess": "None",
 		"notes": "The Math Skills Center, homework drop bins, and game cabinets are accessible at all times (thorugh the CMC; OneCard access may be required). Tutors are avialable during times when the Math Skills Center is listed as \"Open\".",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu"],
-        	    "open": "8:30",
-        	    "close": "23:00",
-                "group": "term"
-            }, {
-        	    "days": ["Fri"],
-        	    "open": "8:30",
-        	    "close": "17:00",
-                "group": "term"
-            }, {
-        	    "days": ["Sat", "Sun"],
-        	    "open": "14:00",
-        	    "close": "17:00",
-                "group": "term"
-            }, {
-        	    "days": ["Sun"],
-        	    "open": "19:00",
-        	    "close": "23:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu"],
+			"open": "8:30",
+			"close": "23:00",
+			"group": "term"
+		}, {
+			"days": ["Fri"],
+			"open": "8:30",
+			"close": "17:00",
+			"group": "term"
+		}, {
+			"days": ["Sat", "Sun"],
+			"open": "14:00",
+			"close": "17:00",
+			"group": "term"
+		}, {
+			"days": ["Sun"],
+			"open": "19:00",
+			"close": "23:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Off-Campus Studies",
@@ -879,14 +828,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "OneCard Office",
@@ -899,14 +846,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Presentation, Events, and Production Support",
@@ -920,14 +865,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Perlman Museum",
@@ -940,19 +883,35 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed"],
-        	    "open": "11:00",
-        	    "close": "18:00",
-                "group": "term"
-            }, {
-        	    "days": ["Thu", "Fri"],
-        	    "open": "11:00",
-        	    "close": "21:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed"],
+			"open": "11:00",
+			"close": "18:00",
+			"group": "term"
+		}, {
+			"days": ["Thu", "Fri"],
+			"open": "11:00",
+			"close": "21:00",
+			"group": "term"
+		}]
+	},
+	{
+		"name": "Perlman Learning and Teaching Center",
+		"slug": "ltc",
+		"shortcode": "LTC",
+		"location": "Main Weitz (Suite 146)",
+		"website": "https://apps.carleton.edu/campus/ltc/",
+		"phone": "(507) 222-4192",
+		"email": "",
+		"generalAccess": "Public",
+		"closedAccess": "None",
+		"notes": "",
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Post Office",
@@ -965,20 +924,19 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-                "open": "8:00",
-                "close": "17:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sat"],
-                "open": "10:00",
-                "close": "16:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+				"open": "8:00",
+				"close": "17:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sat"],
+				"open": "10:00",
+				"close": "16:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Print Services",
@@ -991,14 +949,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Reference Desk",
@@ -1011,24 +967,22 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days" : ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open" : "10:00",
-        	    "close" : "17:00",
-                "group": "term"
-            }, {
-        	    "days" : ["Sun", "Mon", "Tue", "Wed", "Thu"],
-        	    "open": "19:00",
-        	    "close" : "21:00",
-                "group": "term"
-            }, {
-        	    "days" : ["Sun"],
-        	    "open" : "13:00",
-        	    "close" : "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "10:00",
+			"close": "17:00",
+			"group": "term"
+		}, {
+			"days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
+			"open": "19:00",
+			"close": "21:00",
+			"group": "term"
+		}, {
+			"days": ["Sun"],
+			"open": "13:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Registrar",
@@ -1041,14 +995,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Residential Life",
@@ -1061,14 +1013,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "Restricted",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Sayles Café",
@@ -1081,32 +1031,31 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu"],
-        	    "open": "8:00",
-        	    "close": "0:00",
-                "group": "term"
-            },
-            {
-        	    "days": ["Fri"],
-        	    "open": "8:00",
-        	    "close": "1:00",
-                "group": "term"
-            },
-            {
-        	    "days": ["Sat"],
-        	    "open": "9:00",
-        	    "close": "1:00",
-                "group": "term"
-            },
-            {
-        	    "days": ["Sun"],
-        	    "open": "12:00",
-        	    "close": "0:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu"],
+				"open": "8:00",
+				"close": "0:00",
+				"group": "term"
+			},
+			{
+				"days": ["Fri"],
+				"open": "8:00",
+				"close": "1:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sat"],
+				"open": "9:00",
+				"close": "1:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sun"],
+				"open": "12:00",
+				"close": "0:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Sayles Café Late Night",
@@ -1120,20 +1069,19 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
-                "open": "20:00",
-                "close": "0:00",
-                "group": "term"
-            },
-            {
-                "days": ["Fri", "Sat"],
-                "open": "20:00",
-                "close": "1:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
+				"open": "20:00",
+				"close": "0:00",
+				"group": "term"
+			},
+			{
+				"days": ["Fri", "Sat"],
+				"open": "20:00",
+				"close": "1:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Sayles Café Meal Equivalency",
@@ -1146,7 +1094,38 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": "Only applicable to students on the 20 meal plan (full board)."
+		"notes": "Only applicable to students on the 20 meal plan (full board).",
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "10:30",
+			"label": "breakfast"
+		}, {
+			"days": ["Sat"],
+			"open": "9:00",
+			"close": "10:30",
+			"label": "breakfast"
+		}, {
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+			"open": "10:30",
+			"close": "17:00",
+			"label": "lunch"
+		}, {
+			"days": ["sun"],
+			"open": "12:00",
+			"close": "17:00",
+			"label": "lunch"
+		}, {
+			"days": ["sun", "Mon", "Tue", "Wed", "Thu"],
+			"open": "17:00",
+			"close": "0:00",
+			"label": "dinner"
+		}, {
+			"days": ["Fri", "Sat"],
+			"open": "17:00",
+			"close": "1:00",
+			"label": "dinner"
+		}]
 	},
 	{
 		"name": "Sayles Café Tacqueria",
@@ -1159,14 +1138,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-                "open": "10:00",
-                "close": "16:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "10:00",
+			"close": "16:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Sayles-Hill Campus Center",
@@ -1179,17 +1156,15 @@
 		"generalAccess": "Public",
 		"closedAccess": "Carleton",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-                "open": "6:00",
-                "close": "0:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+			"open": "6:00",
+			"close": "0:00",
+			"group": "term"
+		}]
 	},
 	{
-        "name": "Student Health and Counseling - Counseling Appointments",
+		"name": "Student Health and Counseling - Counseling Appointments",
 		"shortname": "SHAC Counseling",
 		"slug": "shac-counseling",
 		"shortcode": "SHAC",
@@ -1200,17 +1175,15 @@
 		"generalAccess": "Carleton",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "9:00",
-        	    "close": "18:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "9:00",
+			"close": "18:00",
+			"group": "term"
+		}]
 	},
 	{
-        "name": "Student Health and Counseling - Medical Appointments",
+		"name": "Student Health and Counseling - Medical Appointments",
 		"shortname": "SHAC Medical",
 		"slug": "shac-medical",
 		"shortcode": "SHAC",
@@ -1221,20 +1194,19 @@
 		"generalAccess": "Carleton",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon"],
-        	    "open": "9:00",
-        	    "close": "20:00",
-                "group": "term"
-            },
-            {
-        	    "days": ["Tue", "Wed", "Thu", "Fri"],
-        	    "open": "9:00",
-        	    "close": "18:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon"],
+				"open": "9:00",
+				"close": "20:00",
+				"group": "term"
+			},
+			{
+				"days": ["Tue", "Wed", "Thu", "Fri"],
+				"open": "9:00",
+				"close": "18:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Stav Hall (St. Olaf)",
@@ -1247,34 +1219,32 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days" : ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-        	    "open" : "7:00",
-        	    "close" : "9:45",
-        	    "label" : "breakfast"
-            }, {
-        	    "days" : ["Sun"],
-        	    "open" : "8:30",
-        	    "close" : "10:15",
-        	    "label" : "breakfast"
-            }, {
-        	    "days" : ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open" : "10:30",
-        	    "close" : "14:00",
-        	    "label" : "lunch"
-            }, {
-        	    "days" : ["Sat", "Sun"],
-        	    "open" : "11:00",
-        	    "close" : "13:30",
-        	    "label" : "brunch"
-            }, {
-        	    "days" : ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
-        	    "open" : "16:30",
-        	    "close" : "19:30",
-        	    "label" : "dinner"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+			"open": "7:00",
+			"close": "9:45",
+			"label": "breakfast"
+		}, {
+			"days": ["Sun"],
+			"open": "8:30",
+			"close": "10:15",
+			"label": "breakfast"
+		}, {
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "10:30",
+			"close": "14:00",
+			"label": "lunch"
+		}, {
+			"days": ["Sat", "Sun"],
+			"open": "11:00",
+			"close": "13:30",
+			"label": "brunch"
+		}, {
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+			"open": "16:30",
+			"close": "19:30",
+			"label": "dinner"
+		}]
 	},
 	{
 		"name": "Stav Hall Bag Lunches",
@@ -1288,17 +1258,15 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days" : ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open" : "7:00",
-        	    "close" : "9:45"
-            }, {
-        	    "days" : ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open" : "10:30",
-        	    "close" : "14:00"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "7:00",
+			"close": "9:45"
+		}, {
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "10:30",
+			"close": "14:00"
+		}]
 	},
 	{
 		"name": "Student Activities Office",
@@ -1311,14 +1279,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Student Financial Services",
@@ -1331,14 +1297,12 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-        	    "open": "8:00",
-        	    "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Laurence McKinley Gould Library",
@@ -1352,29 +1316,27 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-        	    "days": ["Mon", "Tue", "Wed", "Thu"],
-        	    "open": "8:30",
-        	    "close": "1:00",
-                "group": "term"
-            }, {
-        	    "days": ["Fri"],
-        	    "open": "8:30",
-        	    "close": "21:00",
-                "group": "term"
-            }, {
-        	    "days": ["Sat"],
-        	    "open": "10:00",
-        	    "close": "21:00",
-                "group": "term"
-            }, {
-        	    "days": ["Sun"],
-        	    "open": "10:00",
-        	    "close": "1:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu"],
+			"open": "8:30",
+			"close": "1:00",
+			"group": "term"
+		}, {
+			"days": ["Fri"],
+			"open": "8:30",
+			"close": "21:00",
+			"group": "term"
+		}, {
+			"days": ["Sat"],
+			"open": "10:00",
+			"close": "21:00",
+			"group": "term"
+		}, {
+			"days": ["Sun"],
+			"open": "10:00",
+			"close": "1:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "The Rec",
@@ -1387,32 +1349,31 @@
 		"generalAccess": "Carleton",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu"],
-                "open": "6:30",
-                "close": "23:00",
-                "group": "term"
-            },
-            {
-                "days": ["Fri"],
-                "open": "6:30",
-                "close": "22:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sat"],
-                "open": "8:00",
-                "close": "20:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sun"],
-                "open": "10:00",
-                "close": "23:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu"],
+				"open": "6:30",
+				"close": "23:00",
+				"group": "term"
+			},
+			{
+				"days": ["Fri"],
+				"open": "6:30",
+				"close": "22:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sat"],
+				"open": "8:00",
+				"close": "20:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sun"],
+				"open": "10:00",
+				"close": "23:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "The Wall",
@@ -1425,26 +1386,25 @@
 		"generalAccess": "Carleton",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu"],
-                "open": "16:30",
-                "close": "21:30",
-                "group": "term"
-            },
-            {
-                "days": ["Fri"],
-                "open": "16:00",
-                "close": "19:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sat", "Sun"],
-                "open": "14:00",
-                "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu"],
+				"open": "16:30",
+				"close": "21:30",
+				"group": "term"
+			},
+			{
+				"days": ["Fri"],
+				"open": "16:00",
+				"close": "19:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sat", "Sun"],
+				"open": "14:00",
+				"close": "17:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Weitz Café",
@@ -1457,42 +1417,39 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-                "open": "8:00",
-                "close": "17:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "term"
+		}]
 	},
 	{
 		"name": "Weitz Center for Creativity",
 		"slug": "weitz",
 		"shortcode": "WCC",
-		"location": "",
-		"website": "",
+		"location": "320 Third Street East",
+		"website": "https://apps.carleton.edu/weitz/",
 		"phone": "",
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "Restricted",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-                "open": "7:00",
-                "close": "21:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
-                "open": "21:00",
-                "close": "0:00",
-                "label": "all Carleton students",
-                "access": "Carleton",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+				"open": "7:00",
+				"close": "21:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+				"open": "21:00",
+				"close": "0:00",
+				"label": "all Carleton students",
+				"access": "Carleton",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "West Gym",
@@ -1505,32 +1462,31 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu"],
-                "open": "11:00",
-                "close": "23:00",
-                "group": "term"
-            },
-            {
-                "days": ["Fri"],
-                "open": "11:00",
-                "close": "20:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sat"],
-                "open": "12:00",
-                "close": "18:00",
-                "group": "term"
-            },
-            {
-                "days": ["Sun"],
-                "open": "12:00",
-                "close": "23:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Tue", "Wed", "Thu"],
+				"open": "11:00",
+				"close": "23:00",
+				"group": "term"
+			},
+			{
+				"days": ["Fri"],
+				"open": "11:00",
+				"close": "20:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sat"],
+				"open": "12:00",
+				"close": "18:00",
+				"group": "term"
+			},
+			{
+				"days": ["Sun"],
+				"open": "12:00",
+				"close": "23:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Thorpe Pool",
@@ -1544,26 +1500,25 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "",
-        "hours": [
-            {
-                "days": ["Mon", "Wed"],
-                "open": "12:30",
-                "close": "13:30",
-                "group": "term"
-            },
-            {
-                "days": ["Mon", "Wed", "Fri", "Sun"],
-                "open": "16:30",
-                "close": "18:00",
-                "group": "term"
-            },
-            {
-                "days": ["Fri"],
-                "open": "12:00",
-                "close": "13:00",
-                "group": "term"
-            }
-        ]
+		"hours": [{
+				"days": ["Mon", "Wed"],
+				"open": "12:30",
+				"close": "13:30",
+				"group": "term"
+			},
+			{
+				"days": ["Mon", "Wed", "Fri", "Sun"],
+				"open": "16:30",
+				"close": "18:00",
+				"group": "term"
+			},
+			{
+				"days": ["Fri"],
+				"open": "12:00",
+				"close": "13:00",
+				"group": "term"
+			}
+		]
 	},
 	{
 		"name": "Writing Center",
@@ -1576,22 +1531,21 @@
 		"generalAccess": "Public",
 		"closedAccess": "None",
 		"notes": "For best results, make an appointment!",
-        "hours": [
-            {
-                "days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
-                "open": "20:00",
-                "close": "0:00"
-            },
-            {
-                "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri"],
-                "open": "14:00",
-                "close": "17:00"
-            },
-            {
-                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
-                "open": "9:00",
-                "close": "12:00"
-            }
-        ]
+		"hours": [{
+				"days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
+				"open": "20:00",
+				"close": "0:00"
+			},
+			{
+				"days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri"],
+				"open": "14:00",
+				"close": "17:00"
+			},
+			{
+				"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+				"open": "9:00",
+				"close": "12:00"
+			}
+		]
 	}
 ]
