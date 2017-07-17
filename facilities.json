@@ -1,15 +1,43 @@
-[{
+[
+    {
 		"name": "Academic Buildings",
 		"slug": "academics",
 		"shortcode": "ACA",
 		"location": "",
 		"website": "",
 		"phone": "",
-		"email": "",
+		"email": "Includes Leighton, Laird, Old Music, and Willis.",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+                "open": "7:00",
+                "close": "0:00",
+                "group": "term"
+            }
+        ]
 	},
+    {
+        "name": "Academic Support Center",
+        "slug": "asc",
+        "shortcode": "ASC",
+        "location": "Fourth Libe (Suite 420)",
+        "website": "https://apps.carleton.edu/campus/asc/",
+        "phone": "(507) 222-4027",
+        "generalAccess": "Public",
+        "closedAccess": "None",
+        "notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "term"
+            }
+        ]
+    },
 	{
 		"name": "Archives",
 		"slug": "archives",
@@ -40,13 +68,39 @@
 		"name": "Boliou Hall",
 		"slug": "boliou",
 		"shortcode": "BOLI",
-		"location": "",
+		"location": "505 Goodsell Circle",
 		"website": "",
 		"phone": "",
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "Restricted",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu"],
+                "open": "7:00",
+                "close": "22:00",
+                "group": "term"
+            },
+            {
+                "days": ["Fri"],
+                "open": "7:00",
+                "close": "18:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sat"],
+                "open": "10:00",
+                "close": "18:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sun"],
+                "open": "10:00",
+                "close": "23:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Bookstore",
@@ -61,6 +115,11 @@
 		"notes": "",
         "hours": [
             {
+                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open": "8:30",
+        	    "close": "16:00",
+                "group": "break"
+            }, {
         	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "8:30",
         	    "close": "18:00",
@@ -68,6 +127,11 @@
             }, {
         	    "days": ["Sat"],
         	    "open": "10:00",
+        	    "close": "16:00",
+                "group": "term"
+            }, {
+        	    "days": ["Sun"],
+        	    "open": "12:00",
         	    "close": "16:00",
                 "group": "term"
             }
@@ -83,7 +147,27 @@
 		"email": "",
 		"generalAccess": "Carleton",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu"],
+                "open": "16:30",
+                "close": "21:30",
+                "group": "term"
+            },
+            {
+                "days": ["Fri"],
+                "open": "16:00",
+                "close": "19:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sat", "Sun"],
+                "open": "14:00",
+                "close": "17:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Burton",
@@ -108,13 +192,13 @@
         	    "open": "11:30",
         	    "close": "13:30",
         	    "label": "lunch",
-                "group": "Term"
+                "group": "term"
             }, {
         	    "days": ["Sat", "Sun"],
         	    "open": "11:30",
         	    "close": "13:00",
         	    "label": "brunch",
-                "group": "Term"
+                "group": "term"
             }, {
                 "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
                 "open": "17:45",
@@ -128,19 +212,27 @@
 		"name": "Business Cashier",
 		"slug": "business-cashier",
 		"shortcode": "BUSC",
-		"location": "First Leighton",
+		"location": "First Leighton (Business Office - Suite 109)",
 		"website": "https://apps.carleton.edu/campus/business/cashierservices/",
 		"phone": "(507) 222-7095",
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open": "8:00",
+        	    "close": "15:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Business Office",
 		"slug": "business",
 		"shortcode": "BUSI",
-		"location": "First Leighton",
+		"location": "First Leighton (Suite 109)",
 		"website": "https://apps.carleton.edu/campus/business/",
 		"phone": "(507) 222-7095",
 		"email": "",
@@ -152,7 +244,7 @@
         	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "8:00",
         	    "close": "17:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
@@ -161,21 +253,36 @@
 		"shortname": "CAMS Production Office",
 		"slug": "camsproduction",
 		"shortcode": "CAMS",
-		"location": "Main Weitz",
+		"location": "Main Weitz (Suite 139)",
 		"website": "https://apps.carleton.edu/curricular/cams/production/hours/",
 		"phone": "(507) 222-5434",
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Wed"],
+        	    "open": "12:00",
+        	    "close": "18:00"
+            }, {
+        	    "days": ["Tue", "Thu"],
+        	    "open": "10:00",
+        	    "close": "18:00"
+            }, {
+        	    "days": ["Fri", "Sat", "Sun"],
+        	    "open": "12:00",
+        	    "close": "17:00"
+            }
+        ]
 	},
 	{
 		"name": "Career Center",
 		"slug": "career",
 		"shortcode": "CCTR",
-		"location": "Basement Sayles",
+		"location": "Basement Sayles (Suite 50)",
 		"website": "https://apps.carleton.edu/career/",
-		"phone": "(507) 222-4923",
+		"phone": "(507) 222-4293",
 		"email": "careercenter@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
@@ -184,8 +291,14 @@
             {
         	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "8:00",
+        	    "close": "16:30",
+                "group": "break"
+            },
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open": "8:00",
         	    "close": "17:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
@@ -206,7 +319,7 @@
         	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "9:00",
         	    "close": "17:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
@@ -215,7 +328,7 @@
 		"shortname": "CMC",
 		"slug": "cmc",
 		"shortcode": "CMC",
-		"location": "",
+		"location": "509 Goodsell Circle",
 		"website": "",
 		"phone": "",
 		"email": "",
@@ -227,21 +340,48 @@
         	    "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
         	    "open": "6:00",
         	    "close": "0:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
 	{
-		"name": "Cowling",
+		"shortname": "Cowling",
+        "name": "Cowling Recreation Center",
 		"slug": "cowling",
 		"shortcode": "COWL",
-		"location": "Cowling Recreation Center",
+		"location": "714 Evans Drive",
 		"website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
 		"phone": "(507) 222-4431",
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu"],
+                "open": "7:30",
+                "close": "23:00",
+                "group": "term"
+            },
+            {
+                "days": ["Fri"],
+                "open": "9:00",
+                "close": "21:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sat"],
+                "open": "10:00",
+                "close": "20:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sun"],
+                "open": "12:00",
+                "close": "23:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Cowling Pool",
@@ -253,7 +393,39 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu"],
+                "open": "7:30",
+                "close": "9:00",
+                "group": "term"
+            },
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu"],
+                "open": "20:30",
+                "close": "22:00",
+                "group": "term"
+            },
+            {
+                "days": ["Tue", "Thu"],
+                "open": "12:30",
+                "close": "13:30",
+                "group": "term"
+            },
+            {
+                "days": ["Tue", "Thu"],
+                "open": "16:30",
+                "close": "18:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sat", "Sun"],
+                "open": "15:00",
+                "close": "17:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Dean of Students Office",
@@ -271,7 +443,7 @@
         	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "8:00",
         	    "close": "17:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
@@ -291,7 +463,7 @@
         	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "9:00",
         	    "close": "17:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
@@ -299,19 +471,45 @@
 		"name": "Hulings Hall",
 		"slug": "hulings",
 		"shortcode": "HULI",
-		"location": "",
+		"location": "208 Winona Street North",
 		"website": "",
 		"phone": "",
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "Restricted",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu"],
+                "open": "7:00",
+                "close": "0:00",
+                "group": "term"
+            },
+            {
+                "days": ["Fri"],
+                "open": "7:00",
+                "close": "18:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sat"],
+                "open": "9:00",
+                "close": "17:30",
+                "group": "term"
+            },
+            {
+                "days": ["Sun"],
+                "open": "13:00",
+                "close": "0:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "IdeaLab",
 		"slug": "idealab",
 		"shortcode": "IDEA",
-		"location": "Lower Weitz (Suite 026)",
+		"location": "Lower Weitz (Suite 26)",
 		"website": "https://apps.carleton.edu/idealab/",
 		"phone": "(507) 222-7070",
 		"email": "",
@@ -323,7 +521,7 @@
         	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "8:00",
         	    "close": "17:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
@@ -343,13 +541,13 @@
         	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "9:00",
         	    "close": "18:00",
-                "group": "Term"
+                "group": "term"
             },
             {
         	    "days": ["Sat", "Sun"],
         	    "open": "11:00",
         	    "close": "16:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
@@ -357,7 +555,7 @@
 		"name": "ITS Helpdesk",
 		"slug": "its",
 		"shortcode": "ITS",
-		"location": "First CMC",
+		"location": "First CMC (Suite 107)",
 		"website": "https://wiki.carleton.edu/display/itskb/ITS+helpdesk",
 		"phone": "(507) 222-5999",
 		"email": "helpdesk@carleton.edu",
@@ -369,22 +567,22 @@
         	    "days": ["Mon", "Tue", "Wed", "Thu"],
         	    "open": "7:30",
         	    "close": "22:00",
-                "group": "Term"
+                "group": "term"
             }, {
         	    "days": ["Fri"],
         	    "open": "7:30",
         	    "close": "21:00",
-                "group": "Term"
+                "group": "term"
             }, {
         	    "days": ["Sat"],
         	    "open": "10:00",
         	    "close": "21:00",
-                "group": "Term"
+                "group": "term"
             }, {
         	    "days": ["Sun"],
         	    "open": "10:00",
         	    "close": "22:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
@@ -423,7 +621,7 @@
 		"name": "ITS Repair Drop-Off",
 		"slug": "its-dropoff",
 		"shortcode": "ITSR",
-		"location": "First CMC (at ITS Helpdesk)",
+		"location": "First CMC (at ITS Helpdesk - Suite 107)",
 		"website": "https://wiki.carleton.edu/display/itskb/ITS+helpdesk",
 		"phone": "(507) 222-5999",
 		"email": "",
@@ -435,7 +633,7 @@
         	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "8:00",
         	    "close": "17:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
@@ -443,10 +641,10 @@
 		"name": "KRLX Record Libe",
 		"slug": "record-libe",
 		"shortcode": "RLIB",
-		"location": "Basement Sayles (KRLX Studio)",
+		"location": "Basement Sayles (KRLX Studio - Suite 27)",
 		"website": "http://www.krlx.org/record-libe",
 		"phone": "",
-		"email": "",
+		"email": "recordlibe@krlx.org",
 		"generalAccess": "Carleton",
 		"closedAccess": "Restricted",
 		"notes": ""
@@ -455,7 +653,7 @@
 		"name": "KRLX Studio",
 		"slug": "krlx",
 		"shortcode": "KRLX",
-		"location": "Basement Sayles (Suite 027)",
+		"location": "Basement Sayles (Suite 26)",
 		"website": "http://www.krlx.org",
 		"phone": "(507) 222-4127",
 		"email": "",
@@ -467,7 +665,7 @@
         	    "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
         	    "open": "0:00",
         	    "close": "0:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
@@ -477,11 +675,25 @@
 		"shortcode": "STAD",
 		"location": "",
 		"website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
-		"phone": "",
+		"phone": "(507) 222-4050",
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+                "open": "9:00",
+                "close": "20:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sun"],
+                "open": "11:00",
+                "close": "20:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Language Center",
@@ -499,17 +711,17 @@
         	    "days": ["Mon", "Tue", "Wed", "Thu"],
         	    "open": "8:15",
         	    "close": "0:00",
-                "group": "Term"
+                "group": "term"
             }, {
         	    "days": ["Fri"],
         	    "open": "8:15",
         	    "close": "16:00",
-                "group": "Term"
+                "group": "term"
             }, {
         	    "days": ["Sun"],
         	    "open": "13:00",
         	    "close": "0:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
@@ -575,25 +787,57 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open": "7:30",
+        	    "close": "10:00",
+                "group": "term"
+            }, {
+        	    "days": ["Mon", "Wed"],
+        	    "open": "11:30",
+        	    "close": "14:00",
+                "group": "term"
+            }, {
+        	    "days": ["Tue", "Thu", "Fri"],
+        	    "open": "11:30",
+        	    "close": "13:45",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Mail Services",
 		"slug": "mail",
 		"shortcode": "MAIL",
-		"location": "Lower Sayles (at Post Office)",
+		"location": "Lower Sayles (at Post Office - Suite 100)",
 		"website": "https://apps.carleton.edu/campus/mail/",
 		"phone": "(507) 222-4151",
 		"email": "mailservices@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+                "open": "8:00",
+                "close": "17:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sat"],
+                "open": "10:00",
+                "close": "16:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Math Skills Center",
 		"slug": "msc",
 		"shortcode": "MSC",
-		"location": "2nd and 3rd CMC",
+		"location": "Second and Third CMC (Suite 231)",
 		"website": "https://apps.carleton.edu/campus/msc/",
 		"phone": "(507) 222-5560",
 		"email": "",
@@ -605,22 +849,22 @@
         	    "days": ["Mon", "Tue", "Wed", "Thu"],
         	    "open": "8:30",
         	    "close": "23:00",
-                "group": "Term"
+                "group": "term"
             }, {
         	    "days": ["Fri"],
         	    "open": "8:30",
         	    "close": "17:00",
-                "group": "Term"
+                "group": "term"
             }, {
         	    "days": ["Sat", "Sun"],
         	    "open": "14:00",
         	    "close": "17:00",
-                "group": "Term"
+                "group": "term"
             }, {
         	    "days": ["Sun"],
         	    "open": "19:00",
         	    "close": "23:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
@@ -628,7 +872,7 @@
 		"name": "Off-Campus Studies",
 		"slug": "ocs",
 		"shortcode": "OCS",
-		"location": "First Leighton",
+		"location": "First Leighton (Suite 119)",
 		"website": "https://apps.carleton.edu/curricular/ocs/",
 		"phone": "(507) 222-4332",
 		"email": "",
@@ -637,10 +881,10 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "8:00",
         	    "close": "17:00",
-                "group": "Term"
+                "group": "term"
             }
         ]
 	},
@@ -654,20 +898,36 @@
 		"email": "onecard@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Presentation, Events, and Production Support",
 		"shortname": "PEPS",
 		"slug": "peps",
 		"shortcode": "PEPS",
-		"location": "Lower Weitz (Suite 027)",
+		"location": "Lower Weitz (Suite 27)",
 		"website": "https://apps.carleton.edu/campus/its/peps/",
 		"phone": "(507) 222-7070",
 		"email": "peps@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Perlman Museum",
@@ -679,7 +939,20 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed"],
+        	    "open": "11:00",
+        	    "close": "18:00",
+                "group": "term"
+            }, {
+        	    "days": ["Thu", "Fri"],
+        	    "open": "11:00",
+        	    "close": "21:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Post Office",
@@ -691,19 +964,41 @@
 		"email": "mailservices@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+                "open": "8:00",
+                "close": "17:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sat"],
+                "open": "10:00",
+                "close": "16:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Print Services",
 		"slug": "print",
 		"shortcode": "PRNT",
-		"location": "First Leighton",
+		"location": "First Leighton - Suite 128",
 		"website": "https://apps.carleton.edu/campus/print/",
 		"phone": "(507) 222-4186",
 		"email": "printservices@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Reference Desk",
@@ -715,7 +1010,25 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days" : ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open" : "10:00",
+        	    "close" : "17:00",
+                "group": "term"
+            }, {
+        	    "days" : ["Sun", "Mon", "Tue", "Wed", "Thu"],
+        	    "open": "19:00",
+        	    "close" : "21:00",
+                "group": "term"
+            }, {
+        	    "days" : ["Sun"],
+        	    "open" : "13:00",
+        	    "close" : "17:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Registrar",
@@ -727,7 +1040,15 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Residential Life",
@@ -739,7 +1060,15 @@
 		"email": "reslife@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "Restricted",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Sayles Café",
@@ -751,7 +1080,33 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu"],
+        	    "open": "8:00",
+        	    "close": "0:00",
+                "group": "term"
+            },
+            {
+        	    "days": ["Fri"],
+        	    "open": "8:00",
+        	    "close": "1:00",
+                "group": "term"
+            },
+            {
+        	    "days": ["Sat"],
+        	    "open": "9:00",
+        	    "close": "1:00",
+                "group": "term"
+            },
+            {
+        	    "days": ["Sun"],
+        	    "open": "12:00",
+        	    "close": "0:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Sayles Café Late Night",
@@ -764,7 +1119,21 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
+                "open": "20:00",
+                "close": "0:00",
+                "group": "term"
+            },
+            {
+                "days": ["Fri", "Sat"],
+                "open": "20:00",
+                "close": "1:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Sayles Café Meal Equivalency",
@@ -789,7 +1158,15 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+                "open": "10:00",
+                "close": "16:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Sayles-Hill Campus Center",
@@ -801,31 +1178,63 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "Carleton",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+                "open": "6:00",
+                "close": "0:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
-		"name": "SHAC Counseling Appointments",
+        "name": "Student Health and Counseling - Counseling Appointments",
+		"shortname": "SHAC Counseling",
 		"slug": "shac-counseling",
 		"shortcode": "SHAC",
-		"location": "Ground Davis",
+		"location": "Ground Davis (Suite 14)",
 		"website": "https://apps.carleton.edu/studenthealth/",
 		"phone": "(507) 222-4080",
 		"email": "shac@carleton.edu",
 		"generalAccess": "Carleton",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open": "9:00",
+        	    "close": "18:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
-		"name": "SHAC Medical Appointments",
+        "name": "Student Health and Counseling - Medical Appointments",
+		"shortname": "SHAC Medical",
 		"slug": "shac-medical",
 		"shortcode": "SHAC",
-		"location": "Ground Davis",
+		"location": "Ground Davis (Suite 14)",
 		"website": "https://apps.carleton.edu/studenthealth/",
 		"phone": "(507) 222-4080",
 		"email": "shac@carleton.edu",
 		"generalAccess": "Carleton",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon"],
+        	    "open": "9:00",
+        	    "close": "20:00",
+                "group": "term"
+            },
+            {
+        	    "days": ["Tue", "Wed", "Thu", "Fri"],
+        	    "open": "9:00",
+        	    "close": "18:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Stav Hall (St. Olaf)",
@@ -837,7 +1246,35 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days" : ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+        	    "open" : "7:00",
+        	    "close" : "9:45",
+        	    "label" : "breakfast"
+            }, {
+        	    "days" : ["Sun"],
+        	    "open" : "8:30",
+        	    "close" : "10:15",
+        	    "label" : "breakfast"
+            }, {
+        	    "days" : ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open" : "10:30",
+        	    "close" : "14:00",
+        	    "label" : "lunch"
+            }, {
+        	    "days" : ["Sat", "Sun"],
+        	    "open" : "11:00",
+        	    "close" : "13:30",
+        	    "label" : "brunch"
+            }, {
+        	    "days" : ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+        	    "open" : "16:30",
+        	    "close" : "19:30",
+        	    "label" : "dinner"
+            }
+        ]
 	},
 	{
 		"name": "Stav Hall Bag Lunches",
@@ -850,7 +1287,18 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days" : ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open" : "7:00",
+        	    "close" : "9:45"
+            }, {
+        	    "days" : ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open" : "10:30",
+        	    "close" : "14:00"
+            }
+        ]
 	},
 	{
 		"name": "Student Activities Office",
@@ -862,7 +1310,15 @@
 		"email": "sao@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Student Financial Services",
@@ -874,7 +1330,15 @@
 		"email": "financialaid@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Laurence McKinley Gould Library",
@@ -892,19 +1356,23 @@
             {
         	    "days": ["Mon", "Tue", "Wed", "Thu"],
         	    "open": "8:30",
-        	    "close": "1:00"
+        	    "close": "1:00",
+                "group": "term"
             }, {
         	    "days": ["Fri"],
         	    "open": "8:30",
-        	    "close": "21:00"
+        	    "close": "21:00",
+                "group": "term"
             }, {
         	    "days": ["Sat"],
         	    "open": "10:00",
-        	    "close": "21:00"
+        	    "close": "21:00",
+                "group": "term"
             }, {
         	    "days": ["Sun"],
         	    "open": "10:00",
-        	    "close": "1:00"
+        	    "close": "1:00",
+                "group": "term"
             }
         ]
 	},
@@ -918,7 +1386,33 @@
 		"email": "",
 		"generalAccess": "Carleton",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu"],
+                "open": "6:30",
+                "close": "23:00",
+                "group": "term"
+            },
+            {
+                "days": ["Fri"],
+                "open": "6:30",
+                "close": "22:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sat"],
+                "open": "8:00",
+                "close": "20:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sun"],
+                "open": "10:00",
+                "close": "23:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "The Wall",
@@ -930,7 +1424,27 @@
 		"email": "",
 		"generalAccess": "Carleton",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu"],
+                "open": "16:30",
+                "close": "21:30",
+                "group": "term"
+            },
+            {
+                "days": ["Fri"],
+                "open": "16:00",
+                "close": "19:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sat", "Sun"],
+                "open": "14:00",
+                "close": "17:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Weitz Café",
@@ -938,11 +1452,19 @@
 		"shortcode": "WCAF",
 		"location": "Weitz Commons",
 		"website": "https://apps.carleton.edu/campus/dining_services/facilities/",
-		"phone": "",
+		"phone": "(507) 222-7141",
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+                "open": "8:00",
+                "close": "17:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Weitz Center for Creativity",
@@ -954,19 +1476,61 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "Restricted",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+                "open": "7:00",
+                "close": "21:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+                "open": "21:00",
+                "close": "0:00",
+                "label": "all Carleton students",
+                "access": "Carleton",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "West Gym",
 		"slug": "west",
 		"shortcode": "WEST",
-		"location": "West Gym",
+		"location": "321 Division Street North (behind Leighton and the Facilities building)",
 		"website": "https://apps.carleton.edu/campus/rec/facilities/hours/",
-		"phone": "",
+		"phone": "(507) 222-4159",
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu"],
+                "open": "11:00",
+                "close": "23:00",
+                "group": "term"
+            },
+            {
+                "days": ["Fri"],
+                "open": "11:00",
+                "close": "20:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sat"],
+                "open": "12:00",
+                "close": "18:00",
+                "group": "term"
+            },
+            {
+                "days": ["Sun"],
+                "open": "12:00",
+                "close": "23:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Thorpe Pool",
@@ -979,18 +1543,55 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+                "days": ["Mon", "Wed"],
+                "open": "12:30",
+                "close": "13:30",
+                "group": "term"
+            },
+            {
+                "days": ["Mon", "Wed", "Fri", "Sun"],
+                "open": "16:30",
+                "close": "18:00",
+                "group": "term"
+            },
+            {
+                "days": ["Fri"],
+                "open": "12:00",
+                "close": "13:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Writing Center",
 		"slug": "writing",
 		"shortcode": "WRIT",
-		"location": "Fourth Libe",
+		"location": "Fourth Libe (Suite 425)",
 		"website": "https://apps.carleton.edu/campus/asc/writingcenter/",
 		"phone": "",
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "For best results, make an appointment!",
+        "hours": [
+            {
+                "days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
+                "open": "20:00",
+                "close": "0:00"
+            },
+            {
+                "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri"],
+                "open": "14:00",
+                "close": "17:00"
+            },
+            {
+                "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+                "open": "9:00",
+                "close": "12:00"
+            }
+        ]
 	}
 ]

@@ -9,11 +9,11 @@
     },
     {
         "name": "Student Life",
-        "facilities": ["doso", "reslife", "ccce", "sao", "career", "gsc", "shac-medical", "shac-counseling", "oiil", "msc", "writing", "language"]
+        "facilities": ["doso", "reslife", "ccce", "sao", "career", "gsc", "shac-medical", "shac-counseling", "oiil", "msc", "asc", "writing", "language"]
     },
     {
         "name": "Academic Support",
-        "facilities": ["registrar", "writing", "msc", "language", "camsproduction"]
+        "facilities": ["registrar", "asc", "writing", "msc", "language", "camsproduction"]
     },
     {
         "name": "Buildings",
@@ -33,7 +33,7 @@
     },
     {
         "name": "Business and Administration",
-        "facilities": ["registrar", "ocs", "mail", "print", "business", "business-cashier", "doso", "reslife"]
+        "facilities": ["registrar", "sfs", "ocs", "mail", "print", "business", "business-cashier", "doso", "reslife"]
     },
     {
         "name": "Other",
