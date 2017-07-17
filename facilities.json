@@ -20,7 +20,21 @@
 		"email": "archives@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "9:00",
+        	    "close": "12:00",
+                "group": "term"
+            },
+            {
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "13:00",
+        	    "close": "16:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Boliou Hall",
@@ -44,7 +58,20 @@
 		"email": "bookstore@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "8:30",
+        	    "close": "18:00",
+                "group": "term"
+            }, {
+        	    "days": ["sat"],
+        	    "open": "10:00",
+        	    "close": "16:00",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "Bouldering Cave",
@@ -76,8 +103,19 @@
                 "close": "10:00",
                 "label": "breakfast",
                 "group": "term"
-            },
-            {
+            },{
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "11:30",
+        	    "close": "13:30",
+        	    "label": "lunch",
+                "group": "Term"
+            }, {
+        	    "days": ["sat", "sun"],
+        	    "open": "11:30",
+        	    "close": "13:00",
+        	    "label": "brunch",
+                "group": "Term"
+            }, {
                 "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
                 "open": "17:45",
                 "close": "20:00",
@@ -108,7 +146,15 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "Cinema and Media Studies Production Office",
@@ -133,7 +179,15 @@
 		"email": "careercenter@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "Center for Community and Civic Engagement",
@@ -146,7 +200,15 @@
 		"email": "ccce@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "9:00",
+        	    "close": "17:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "Center for Math and Computing",
@@ -159,7 +221,15 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "Carleton",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["sun", "mon", "tue", "wed", "thu", "fri", "sat"],
+        	    "open": "6:00",
+        	    "close": "0:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "Cowling",
@@ -195,7 +265,15 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "Gender and Sexuality Center",
@@ -207,7 +285,15 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "Restricted",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "9:00",
+        	    "close": "17:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "Hulings Hall",
@@ -231,7 +317,15 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "Information Desk",
@@ -243,7 +337,21 @@
 		"email": "infodesk@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "9:00",
+        	    "close": "18:00",
+                "group": "Term"
+            },
+            {
+        	    "days": ["sat", "sun"],
+        	    "open": "11:00",
+        	    "close": "16:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "ITS Helpdesk",
@@ -255,7 +363,30 @@
 		"email": "helpdesk@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["mon", "tue", "wed", "thu"],
+        	    "open": "7:30",
+        	    "close": "22:00",
+                "group": "Term"
+            }, {
+        	    "days": ["fri"],
+        	    "open": "7:30",
+        	    "close": "21:00",
+                "group": "Term"
+            }, {
+        	    "days": ["sat"],
+        	    "open": "10:00",
+        	    "close": "21:00",
+                "group": "Term"
+            }, {
+        	    "days": ["sun"],
+        	    "open": "10:00",
+        	    "close": "22:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "ITS Helpdesk Annex",
@@ -279,7 +410,15 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "KRLX Record Libe",
@@ -303,7 +442,15 @@
 		"email": "",
 		"generalAccess": "Carleton",
 		"closedAccess": "Restricted",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["sun", "mon", "tue", "wed", "thu", "fri", "sat"],
+        	    "open": "0:00",
+        	    "close": "0:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "Laird Stadium",
@@ -340,7 +487,46 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "7:30",
+        	    "close": "10:00",
+        	    "label": "breakfast",
+                "group": "term"
+            }, {
+        	    "days": ["sat"],
+        	    "open": "8:00",
+        	    "close": "9:30",
+        	    "label": "continental breakfast",
+                "group": "term"
+            }, {
+        	    "days": ["mon", "wed"],
+        	    "open": "11:30",
+        	    "close": "14:00",
+        	    "label": "lunch",
+                "group": "term"
+            }, {
+        	    "days": ["tue", "thu", "fri"],
+        	    "open": "11:30",
+        	    "close": "13:45",
+        	    "label": "lunch",
+                "group": "term"
+            }, {
+        	    "days": ["sat", "sun"],
+        	    "open": "10:30",
+        	    "close": "13:00",
+        	    "label": "brunch",
+                "group": "term"
+            }, {
+        	    "days": ["mon", "tue", "wed", "thu", "fri", "sat", "sun"],
+        	    "open": "16:45",
+        	    "close": "19:00",
+        	    "label": "dinner",
+                "group": "term"
+            }
+        ]
 	},
 	{
 		"name": "LDC Express Lunches",
