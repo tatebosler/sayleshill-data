@@ -398,7 +398,26 @@
 		"email": "helpdesk@carleton.edu",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu"],
+        	    "open": "8:30",
+        	    "close": "1:00"
+            }, {
+        	    "days": ["Fri"],
+        	    "open": "8:30",
+        	    "close": "21:00"
+            }, {
+        	    "days": ["Sat"],
+        	    "open": "10:00",
+        	    "close": "21:00"
+            }, {
+        	    "days": ["Sun"],
+        	    "open": "10:00",
+        	    "close": "1:00"
+            }
+        ]
 	},
 	{
 		"name": "ITS Repair Drop-Off",
@@ -474,7 +493,25 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu"],
+        	    "open": "8:15",
+        	    "close": "0:00",
+                "group": "Term"
+            }, {
+        	    "days": ["Fri"],
+        	    "open": "8:15",
+        	    "close": "16:00",
+                "group": "Term"
+            }, {
+        	    "days": ["Sun"],
+        	    "open": "13:00",
+        	    "close": "0:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "East Dining Hall",
@@ -562,25 +599,56 @@
 		"email": "",
 		"generalAccess": "Carleton",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "The Math Skills Center, homework drop bins, and game cabinets are accessible at all times (thorugh the CMC; OneCard access may be required). Tutors are avialable during times when the Math Skills Center is listed as \"Open\".",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu"],
+        	    "open": "8:30",
+        	    "close": "23:00",
+                "group": "Term"
+            }, {
+        	    "days": ["Fri"],
+        	    "open": "8:30",
+        	    "close": "17:00",
+                "group": "Term"
+            }, {
+        	    "days": ["Sat", "Sun"],
+        	    "open": "14:00",
+        	    "close": "17:00",
+                "group": "Term"
+            }, {
+        	    "days": ["Sun"],
+        	    "open": "19:00",
+        	    "close": "23:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "Off-Campus Studies",
 		"slug": "ocs",
 		"shortcode": "OCS",
 		"location": "First Leighton",
-		"website": "",
-		"phone": "",
+		"website": "https://apps.carleton.edu/curricular/ocs/",
+		"phone": "(507) 222-4332",
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "open": "8:00",
+        	    "close": "17:00",
+                "group": "Term"
+            }
+        ]
 	},
 	{
 		"name": "OneCard Office",
 		"slug": "onecard",
 		"shortcode": "ONE",
-		"location": "Basement Sayles",
+		"location": "Basement Sayles (Suite 5)",
 		"website": "https://apps.carleton.edu/campus/onecard/",
 		"phone": "(507) 222-7728",
 		"email": "onecard@carleton.edu",
@@ -819,7 +887,26 @@
 		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": ""
+		"notes": "",
+        "hours": [
+            {
+        	    "days": ["Mon", "Tue", "Wed", "Thu"],
+        	    "open": "8:30",
+        	    "close": "1:00"
+            }, {
+        	    "days": ["Fri"],
+        	    "open": "8:30",
+        	    "close": "21:00"
+            }, {
+        	    "days": ["Sat"],
+        	    "open": "10:00",
+        	    "close": "21:00"
+            }, {
+        	    "days": ["Sun"],
+        	    "open": "10:00",
+        	    "close": "1:00"
+            }
+        ]
 	},
 	{
 		"name": "The Rec",
