@@ -23,13 +23,13 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "9:00",
         	    "close": "12:00",
                 "group": "term"
             },
             {
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "13:00",
         	    "close": "16:00",
                 "group": "term"
@@ -61,12 +61,12 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "8:30",
         	    "close": "18:00",
                 "group": "term"
             }, {
-        	    "days": ["sat"],
+        	    "days": ["Sat"],
         	    "open": "10:00",
         	    "close": "16:00",
                 "group": "term"
@@ -104,13 +104,13 @@
                 "label": "breakfast",
                 "group": "term"
             },{
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "11:30",
         	    "close": "13:30",
         	    "label": "lunch",
                 "group": "Term"
             }, {
-        	    "days": ["sat", "sun"],
+        	    "days": ["Sat", "Sun"],
         	    "open": "11:30",
         	    "close": "13:00",
         	    "label": "brunch",
@@ -149,7 +149,7 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "8:00",
         	    "close": "17:00",
                 "group": "Term"
@@ -182,7 +182,7 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "8:00",
         	    "close": "17:00",
                 "group": "Term"
@@ -203,7 +203,7 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "9:00",
         	    "close": "17:00",
                 "group": "Term"
@@ -224,7 +224,7 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["sun", "mon", "tue", "wed", "thu", "fri", "sat"],
+        	    "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
         	    "open": "6:00",
         	    "close": "0:00",
                 "group": "Term"
@@ -268,7 +268,7 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "8:00",
         	    "close": "17:00",
                 "group": "Term"
@@ -288,7 +288,7 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "9:00",
         	    "close": "17:00",
                 "group": "Term"
@@ -320,7 +320,7 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "8:00",
         	    "close": "17:00",
                 "group": "Term"
@@ -340,13 +340,13 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "9:00",
         	    "close": "18:00",
                 "group": "Term"
             },
             {
-        	    "days": ["sat", "sun"],
+        	    "days": ["Sat", "Sun"],
         	    "open": "11:00",
         	    "close": "16:00",
                 "group": "Term"
@@ -366,22 +366,22 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["mon", "tue", "wed", "thu"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu"],
         	    "open": "7:30",
         	    "close": "22:00",
                 "group": "Term"
             }, {
-        	    "days": ["fri"],
+        	    "days": ["Fri"],
         	    "open": "7:30",
         	    "close": "21:00",
                 "group": "Term"
             }, {
-        	    "days": ["sat"],
+        	    "days": ["Sat"],
         	    "open": "10:00",
         	    "close": "21:00",
                 "group": "Term"
             }, {
-        	    "days": ["sun"],
+        	    "days": ["Sun"],
         	    "open": "10:00",
         	    "close": "22:00",
                 "group": "Term"
@@ -413,7 +413,7 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "8:00",
         	    "close": "17:00",
                 "group": "Term"
@@ -445,7 +445,7 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["sun", "mon", "tue", "wed", "thu", "fri", "sat"],
+        	    "days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
         	    "open": "0:00",
         	    "close": "0:00",
                 "group": "Term"
@@ -490,37 +490,37 @@
 		"notes": "",
         "hours": [
             {
-        	    "days": ["mon", "tue", "wed", "thu", "fri"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
         	    "open": "7:30",
         	    "close": "10:00",
         	    "label": "breakfast",
                 "group": "term"
             }, {
-        	    "days": ["sat"],
+        	    "days": ["Sat"],
         	    "open": "8:00",
         	    "close": "9:30",
         	    "label": "continental breakfast",
                 "group": "term"
             }, {
-        	    "days": ["mon", "wed"],
+        	    "days": ["Mon", "Wed"],
         	    "open": "11:30",
         	    "close": "14:00",
         	    "label": "lunch",
                 "group": "term"
             }, {
-        	    "days": ["tue", "thu", "fri"],
+        	    "days": ["Tue", "Thu", "Fri"],
         	    "open": "11:30",
         	    "close": "13:45",
         	    "label": "lunch",
                 "group": "term"
             }, {
-        	    "days": ["sat", "sun"],
+        	    "days": ["Sat", "Sun"],
         	    "open": "10:30",
         	    "close": "13:00",
         	    "label": "brunch",
                 "group": "term"
             }, {
-        	    "days": ["mon", "tue", "wed", "thu", "fri", "sat", "sun"],
+        	    "days": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
         	    "open": "16:45",
         	    "close": "19:00",
         	    "label": "dinner",
