@@ -4,7 +4,7 @@
         "facilities": ["burton", "ldc", "ldc-express", "sayles-cafe", "sayles-equiv", "sayles-taco", "sayles-latenight", "weitz-cafe", "stav", "stav-bag"]
     },
     {
-        "name": "Sayles",
+        "name": "Sayles-Hill Campus Center",
         "facilities": ["sayles", "sayles-cafe", "sayles-equiv", "sayles-taco", "sayles-latenight", "bookstore", "post", "mail", "info", "sao", "ccce", "career", "onecard", "krlx", "record-libe"]
     },
     {
@@ -24,6 +24,10 @@
         "facilities": ["libe", "reference", "its-libe", "writing", "archives"]
     },
     {
+        "name": "Weitz Center for Creativity",
+        "facilities": ["weitz", "weitz-cafe", "peps", "idealab", "perlman", "ltc"]
+    },
+    {
         "name": "ITS",
         "facilities": ["its", "its-dropoff", "its-libe", "peps", "idealab"]
     },
@@ -37,6 +41,6 @@
     },
     {
         "name": "Other",
-        "facilities": ["perlman", "camsproduction"]
+        "facilities": ["perlman", "ltc", "camsproduction"]
     }
 ]
