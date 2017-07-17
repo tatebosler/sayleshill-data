@@ -1111,12 +1111,12 @@
 			"close": "17:00",
 			"label": "lunch"
 		}, {
-			"days": ["sun"],
+			"days": ["Sun"],
 			"open": "12:00",
 			"close": "17:00",
 			"label": "lunch"
 		}, {
-			"days": ["sun", "Mon", "Tue", "Wed", "Thu"],
+			"days": ["Sun", "Mon", "Tue", "Wed", "Thu"],
 			"open": "17:00",
 			"close": "0:00",
 			"label": "dinner"
