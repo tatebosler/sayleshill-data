@@ -5,10 +5,10 @@
 		"location": "",
 		"website": "",
 		"phone": "",
-		"email": "Includes Leighton, Laird, Old Music, and Willis.",
+		"email": "",
 		"generalAccess": "Public",
 		"closedAccess": "None",
-		"notes": "",
+		"notes": "Includes Leighton, Laird, Old Music, and Willis.",
 		"hours": [{
 			"days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
 			"open": "7:00",
