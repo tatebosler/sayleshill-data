@@ -896,7 +896,8 @@
 		}]
 	},
 	{
-		"name": "Perlman Learning and Teaching Center",
+		"name": "LTC",
+        "shortname": "Perlman Learning and Teaching Center",
 		"slug": "ltc",
 		"shortcode": "LTC",
 		"location": "Main Weitz (Suite 146)",
