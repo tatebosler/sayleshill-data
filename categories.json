@@ -25,7 +25,7 @@
     },
     {
         "name": "Weitz Center for Creativity",
-        "facilities": ["weitz", "weitz-cafe", "peps", "idealab", "perlman", "ltc"]
+        "facilities": ["weitz", "weitz-cafe", "peps", "idealab", "perlman", "camsproduction", "ltc"]
     },
     {
         "name": "ITS",
@@ -38,9 +38,5 @@
     {
         "name": "Business and Administration",
         "facilities": ["registrar", "sfs", "ocs", "mail", "print", "business", "business-cashier", "doso", "reslife"]
-    },
-    {
-        "name": "Other",
-        "facilities": ["perlman", "ltc", "camsproduction"]
     }
 ]
