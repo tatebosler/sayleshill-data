@@ -1338,22 +1338,22 @@
 		"notes": "",
 		"hours": [{
 			"days": ["Mon", "Tue", "Wed", "Thu"],
-			"open": "8:30",
+			"open": "8:00",
 			"close": "1:00",
 			"group": "term"
 		}, {
 			"days": ["Fri"],
-			"open": "8:30",
-			"close": "21:00",
+			"open": "8:00",
+			"close": "1:00",
 			"group": "term"
 		}, {
 			"days": ["Sat"],
-			"open": "10:00",
-			"close": "21:00",
+			"open": "9:00",
+			"close": "0:00",
 			"group": "term"
 		}, {
 			"days": ["Sun"],
-			"open": "10:00",
+			"open": "9:00",
 			"close": "1:00",
 			"group": "term"
 		}]
