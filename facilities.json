@@ -549,6 +549,11 @@
 			"open": "10:00",
 			"close": "22:00",
 			"group": "term"
+		}, {
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "8:00",
+			"close": "17:00",
+			"group": "break"
 		}]
 	},
 	{
