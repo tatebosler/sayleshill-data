@@ -194,6 +194,30 @@
 			"close": "20:00",
 			"label": "dinner",
 			"group": "term"
+		}, {
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "7:45",
+			"close": "9:00",
+			"label": "breakfast",
+			"group": "break"
+		}, {
+			"days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+			"open": "12:00",
+			"close": "1:15",
+			"label": "lunch",
+			"group": "break"
+		}, {
+			"days": ["Sat", "Sun"],
+			"open": "10:30",
+			"close": "11:30",
+			"label": "brunch",
+			"group": "break"
+		}, {
+			"days": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+			"open": "17:45",
+			"close": "18:45",
+			"label": "dinner",
+			"group": "break"
 		}]
 	},
 	{
