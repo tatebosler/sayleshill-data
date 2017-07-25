@@ -218,7 +218,12 @@
 			"close": "18:45",
 			"label": "dinner",
 			"group": "break"
-		}]
+		}],
+        "exceptions": [{
+            "start": "2017-07-25 00:30",
+            "end": "2017-07-25 01:00",
+            "label": "Magic Fun Times"
+        }]
 	},
 	{
 		"name": "Business Cashier",
