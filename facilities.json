@@ -218,16 +218,7 @@
 			"close": "18:45",
 			"label": "dinner",
 			"group": "break"
-		}],
-        "exceptions": [{
-            "start": "2017-07-31 00:30",
-            "end": "2017-07-31 01:00",
-            "label": "Magic Fun Times"
-        }, {
-            "start": "2017-07-31 20:30",
-            "end": "2017-07-31 22:00",
-            "label": "Late Night Breakfast 3: The Revenge"
-        }]
+		}]
 	},
 	{
 		"name": "Business Cashier",
@@ -1113,13 +1104,7 @@
 				"close": "0:00",
 				"group": "term"
 			}
-		],
-        "exceptions": [{
-            "start": "2017-07-29 14:00",
-            "end": "2017-07-31 08:00",
-            "open": false,
-            "label": "Synchrony"
-        }]
+		]
 	},
 	{
 		"name": "Sayles Café Late Night",
@@ -1145,13 +1130,7 @@
 				"close": "1:00",
 				"group": "term"
 			}
-		],
-        "exceptions": [{
-            "start": "2017-07-30 23:00",
-            "end": "2017-07-30 23:30",
-            "open": false,
-            "label": "Maintenance (TM)"
-        }]
+		]
 	},
 	{
 		"name": "Sayles Café Meal Equivalency",
@@ -1195,13 +1174,7 @@
 			"open": "17:00",
 			"close": "1:00",
 			"label": "dinner"
-		}],
-        "exceptions": [{
-            "start": "2017-07-30 23:00",
-            "end": "2017-07-30 23:30",
-            "override": true,
-            "label": "Summer Academic Programs"
-        }]
+		}]
 	},
 	{
 		"name": "Sayles Café Tacqueria",
