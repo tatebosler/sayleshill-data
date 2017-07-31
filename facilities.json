@@ -1113,7 +1113,13 @@
 				"close": "0:00",
 				"group": "term"
 			}
-		]
+		],
+        "exceptions": [{
+            "start": "2017-07-29 14:00",
+            "end": "2017-07-31 08:00",
+            "open": false,
+            "label": "Synchrony"
+        }]
 	},
 	{
 		"name": "Sayles Café Late Night",
