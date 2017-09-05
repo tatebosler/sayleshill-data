@@ -218,7 +218,86 @@
 			"close": "18:45",
 			"label": "dinner",
 			"group": "break"
-		}]
+		}],
+        "exceptions": [{
+             "start": "2017-09-05 07:30",
+             "end": "2017-09-05 09:00",
+             "label": "NSW Breakfast - Returning and Early Arrival Students Only",
+             "access": "carleton",
+             "override": true
+         }, {
+             "start": "2017-09-05 11:30",
+             "end": "2017-09-05 13:45",
+             "label": "NSW Lunch - Returning Students Only",
+             "access": "carleton",
+             "override": true
+         }, {
+              "start": "2017-09-06 07:00",
+              "end": "2017-09-06 08:30",
+              "label": "NSW Breakfast",
+              "access": "carleton",
+              "override": true
+          }, {		
+                "start": "2017-09-06 17:30",
+                "end": "2017-09-06 19:00",
+                "label": "NSW Dinner",
+                "access": "carleton",
+                "override": true
+            }, {
+                 "start": "2017-09-07 07:00",
+                 "end": "2017-09-07 08:30",
+                 "label": "NSW Breakfast",
+                 "access": "carleton",
+                 "override": true
+             }, {
+                  "start": "2017-09-07 11:30",
+                  "end": "2017-09-07 13:30",
+                  "label": "NSW Lunch",
+                  "access": "carleton",
+                  "override": true
+              }, {
+                   "start": "2017-09-07 17:30",
+                   "end": "2017-09-07 19:30",
+                   "label": "NSW Dinner",
+                   "access": "carleton",
+                   "override": true
+               }, {
+                    "start": "2017-09-08 07:30",
+                    "end": "2017-09-08 09:00",
+                    "label": "NSW Breakfast",
+                    "access": "carleton",
+                    "override": true
+                }, {
+                     "start": "2017-09-08 11:30",
+                     "end": "2017-09-08 13:30",
+                     "label": "NSW Lunch",
+                     "access": "carleton",
+                     "override": true
+                 }, {
+                      "start": "2017-09-08 17:30",
+                      "end": "2017-09-08 19:30",
+                      "label": "NSW Dinner",
+                      "access": "carleton",
+                      "override": true
+                  }, {
+                       "start": "2017-09-09 08:00",
+                       "end": "2017-09-09 09:30",
+                       "label": "NSW Hot Breakfast",
+                       "access": "carleton",
+                       "override": true
+                   }, {
+                        "start": "2017-09-09 11:30",
+                        "end": "2017-09-09 14:00",
+                        "label": "NSW Lunch",
+                        "access": "carleton",
+                        "override": true
+                    }, {
+                         "start": "2017-09-09 17:30",
+                         "end": "2017-09-09 19:30",
+                         "label": "NSW Dinner",
+                         "access": "carleton",
+                         "override": true
+                     }]
 	},
 	{
 		"name": "Business Cashier",
@@ -758,7 +837,86 @@
 			"close": "19:00",
 			"label": "dinner",
 			"group": "term"
-		}]
+		}],
+        "exceptions": [{
+             "start": "2017-09-05 11:30",
+             "end": "2017-09-05 13:45",
+             "label": "NSW Lunch - New Students and Families Only",
+             "access": "carleton",
+             "override": true
+         }, {
+              "start": "2017-09-06 07:00",
+              "end": "2017-09-06 08:30",
+              "label": "NSW Breakfast",
+              "access": "carleton",
+              "override": true
+          }, {
+               "start": "2017-09-06 11:30",
+               "end": "2017-09-06 13:30",
+               "label": "NSW Lunch - Returning Students Only",
+               "access": "carleton",
+               "override": true
+           }, {
+                "start": "2017-09-06 17:30",
+                "end": "2017-09-06 19:00",
+                "label": "NSW Dinner",
+                "access": "carleton",
+                "override": true
+            }, {
+                 "start": "2017-09-07 07:00",
+                 "end": "2017-09-07 08:30",
+                 "label": "NSW Breakfast",
+                 "access": "carleton",
+                 "override": true
+             }, {
+                  "start": "2017-09-07 11:30",
+                  "end": "2017-09-07 13:45",
+                  "label": "NSW Lunch",
+                  "access": "carleton",
+                  "override": true
+              }, {
+                   "start": "2017-09-07 17:30",
+                   "end": "2017-09-07 19:30",
+                   "label": "NSW Dinner",
+                   "access": "carleton",
+                   "override": true
+               }, {
+                    "start": "2017-09-08 07:30",
+                    "end": "2017-09-08 09:00",
+                    "label": "NSW Breakfast",
+                    "access": "carleton",
+                    "override": true
+                }, {
+                     "start": "2017-09-08 11:30",
+                     "end": "2017-09-08 13:45",
+                     "label": "NSW Lunch",
+                     "access": "carleton",
+                     "override": true
+                 }, {
+                      "start": "2017-09-08 17:30",
+                      "end": "2017-09-08 19:30",
+                      "label": "NSW Dinner",
+                      "access": "carleton",
+                      "override": true
+                  }, {
+                       "start": "2017-09-09 07:30",
+                       "end": "2017-09-09 09:30",
+                       "label": "NSW Hot Breakfast",
+                       "access": "carleton",
+                       "override": true
+                   }, {
+                        "start": "2017-09-09 11:30",
+                        "end": "2017-09-09 14:00",
+                        "label": "NSW Lunch",
+                        "access": "carleton",
+                        "override": true
+                    }, {
+                         "start": "2017-09-09 17:30",
+                         "end": "2017-09-09 19:30",
+                         "label": "NSW Dinner",
+                         "access": "carleton",
+                         "override": true
+                     }]
 	},
 	{
 		"name": "LDC Express Lunches",

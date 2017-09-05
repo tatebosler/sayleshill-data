@@ -1,7 +1,7 @@
 [
     {
         "data": "facilities",
-        "version": 1,
+        "version": 2,
         "url": "https://raw.githubusercontent.com/ichiefboz/sayleshill-data/master/facilities.json"
     },
     {
