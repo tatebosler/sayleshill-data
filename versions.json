@@ -2,11 +2,11 @@
     {
         "data": "facilities",
         "version": 4,
-        "url": "https://raw.githubusercontent.com/ichiefboz/sayleshill-data/master/aprilfools.json"
+        "url": "https://raw.githubusercontent.com/ichiefboz/sayleshill-data/master/facilities.json"
     },
     {
         "data": "categories",
         "version": 3,
-        "url": "https://raw.githubusercontent.com/ichiefboz/sayleshill-data/master/af-categories.json"
+        "url": "https://raw.githubusercontent.com/ichiefboz/sayleshill-data/master/categories.json"
     }
 ]
