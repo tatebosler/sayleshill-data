@@ -1,12 +1,12 @@
 [
     {
         "data": "facilities",
-        "version": 4,
+        "version": 10,
         "url": "https://raw.githubusercontent.com/ichiefboz/sayleshill-data/master/facilities.json"
     },
     {
         "data": "categories",
-        "version": 3,
+        "version": 10,
         "url": "https://raw.githubusercontent.com/ichiefboz/sayleshill-data/master/categories.json"
     }
 ]
