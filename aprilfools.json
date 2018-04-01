@@ -92,7 +92,7 @@
 	},
 	{
     	"name": "Delta Sky Club - Cowling",
-    	"shortname": "DSC-Cowling",
+    	"shortname": "Delta Sky Club (Cowling)",
 		"shortcode": "DSC-Cowling",
     	"slug": "dsc-cowling",
     	"location": "Cowling 200",
@@ -130,7 +130,7 @@
 	},
 	{
     	"name": "The Bath House",
-    	"shortname": "bathhouse",
+    	"shortname": "Bath House",
 		"shortcode": "GBAT",
     	"slug": "bath",
     	"location": "Goodhue 19",
@@ -149,7 +149,7 @@
 	},
 	{
     	"name": "Nourse Main",
-    	"shortname": "nourse",
+    	"shortname": "Nourse Main",
 		"shortcode": "NOUR",
     	"slug": "nourse",
     	"location": "First Nourse",
