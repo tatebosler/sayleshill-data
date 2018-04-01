@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Dining",
+        "facilities": ["burton", "ldc"]
+    },
+    {
+        "name": "Lounges",
+        "facilities": ["superlounge","nourse","bath","superlounge","dsc-weitz","dsc-cowling"]
+    }
+]
